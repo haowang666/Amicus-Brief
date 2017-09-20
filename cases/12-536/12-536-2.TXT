@@ -1,0 +1,1148 @@
+﻿
+13 of 39 DOCUMENTS
+
+View Original Source Image of This Document   Go to Supreme Court Opinion
+Go to Supreme Court Transcript
+
+           SHAUN MCCUTCHEON, ET AL., Appellants, v. FEDERAL ELECTION
+                             COMMISSION, Appellee.
+
+                                   No. 12-536
+
+                       SUPREME COURT OF THE UNITED STATES
+
+            2012 U.S. Briefs 536; 2013 U.S. S. Ct. Briefs LEXIS 3048
+
+                                 July 24, 2013
+
+            On Appeal From The United States District Court For The
+                             District Of Columbia.
+
+                                  Amicus Brief
+
+COUNSEL:  [**1]  TREVOR POTTER, Counsel of Record, J. GERALD HEBERT, TARA
+MALLOY, PAUL S. RYAN, MEGAN MCALLEN, THE CAMPAIGN LEGAL CENTER, Washington,
+D.C., Counsel for Amici Curiae.  [*i]
+
+INTERESTS:  [*1]  INTEREST OF AMICI CURIAE n1
+
+
+
+   n1 This brief is filed with the written consent of all parties. This brief
+was not authored in whole or in part by counsel for any party. No person or
+entity other than amici or their counsel made a monetary contribution to this
+brief's preparation or submission.
+
+   This brief is filed on behalf of nine nonprofit organizations that are
+concerned about the efficacy of our campaign finance laws and that work to
+enact, implement and defend measures to protect the integrity of government. n2
+
+
+
+   n2 A description of the amici curiae is attached as Appendix A.
+
+TITLE: BRIEF OF THE CAMPAIGN LEGAL CENTER, AARP, ASIAN AMERICANS ADVANCING
+JUSTICE, ASIAN AMERICAN LEGAL DEFENSE AND EDUCATION FUND, COMMON CAUSE, CITIZENS
+FOR RESPONSIBILITY AND ETHICS IN WASHINGTON, THE LEAGUE OF WOMEN VOTERS OF THE
+UNITED STATES, PROGRESSIVES UNITED AND PUBLIC CAMPAIGN AS AMICI CURIAE IN
+SUPPORT OF APPELLEE
+
+SUMMARY OF ARGUMENT
+
+   In this case, plaintiffs-appellants McCutcheon and the Republican National
+Committee take aim at settled Supreme Court precedent, and request that this
+Court reconsider Buckley v. Valeo, 424 U.S. 1 (1976), in order to strike down
+the aggregate limits on contributions by individuals in connection to federal
+elections at 2 U.S.C. § 441a(a)(3).
+
+   In Buckley, the Supreme Court upheld the predecessor version of these
+aggregate limits because it prevented donors from circumventing the base limits
+on contributions to candidates by making "unearmarked contributions to political
+committees likely to contribute to [their preferred] candidate, or huge
+contributions to the candidate's political party." 424 U.S. at 38.
+
+    [*2]  Appellants [**8]  attempt to escape this precedent by arguing that
+Congress amended the Federal Election Campaign Act (FECA), as amended, 2 U.S.C.
+§§ 431 et seq., following Buckley, and thereby resolved the circumvention
+problems identified in that decision and rendered the aggregate limits obsolete.
+
+   Appellants are wrong. They turn a blind eye to the real-world consequences of
+eliminating the aggregate limits, and disregard the ways the limits continue to
+advance the governmental interest in preventing corruption and the appearance of
+corruption, as well as in deterring circumvention of the base contribution
+limits.
+
+   First, as outlined in Section I of this brief, the practical effect of
+invalidating the challenged limits would be the evisceration of the base limits
+on contributions by individuals to candidates and political parties under
+federal law. Absent the aggregate limits, a single donor could contribute a
+total of more than $ 2.4 million to the candidates of his favored political
+party and over $ 1.1 million to the three federal committees and fifty state
+committees of that party in a two-year election cycle. Through the mechanism of
+joint fundraising, this [**9]  donor could avoid the burden of making hundreds
+of separate contributions, and instead could write a single huge check to a
+joint fundraising committee formed by some or all of these entities. The
+proceeds of the joint fundraising effort could subsequently be funneled through
+the participating committees to the donor's preferred candidates. Finally,
+absent the aggregate limits, any  [*3]  candidate could solicit a million-dollar
+contribution to such a joint fundraising committee, because the committee would
+technically receive only "hard money" contributions -- even though the
+soliciting candidate's campaign might benefit from this largesse. In short, any
+serious inquiry into the probable practical effects of invalidating the
+aggregate limits demonstrates that those limits are vital to preserving the
+integrity of the contribution limits.
+
+   Second, a review of Supreme Court precedent confirms that the aggregate
+limits serve the governmental interest in impeding circumvention of the base
+limits and preventing quid pro quo corruption and its appearance. Section II of
+this brief demonstrates that the amendments to FECA following Buckley did not
+address, much less resolve, the circumvention [**10]  concerns that the
+aggregate limit was devised to allay. Despite changes to federal law, the
+circumvention feared by the Buckley Court -- i.e., circumvention by "unearmarked
+contributions to political committees likely to contribute to [a] candidate, or
+huge contributions to the candidate's political party" -- remains possible today
+absent the aggregate limits. Furthermore, the aggregate limits directly prevent
+corruption and the appearance of corruption by blocking the recreation of the
+party "soft money" system that this court deemed corruptive in McConnell v. FEC,
+540 U.S. 93 (2003). These limits should be upheld.
+
+[*4]  ARGUMENT
+
+I. The Real-World Consequence of Eliminating the Aggregate Contribution Limits
+Would Be Massive Circumvention of the Individual Contribution Limits.
+
+   Appellants contend that the aggregate contribution limits are unnecessary
+because adherence to FECA's other contribution limits eliminates any risk of
+corruption. That assertion is demonstrably at odds with the foreseeable
+practical results of removing the aggregate limits.
+
+   A. Absent the Aggregate Limits, a Single Donor Could Contribute Millions of
+Dollars  [**11]   to Federal Candidates and Party Committees.
+
+   Under current law, the limit for contributions by an individual to a federal
+candidate is $ 2,600 per election (and thus, a total of $ 5,200 to a single
+candidate for a primary n3 and general election in a two-year election cycle). 2
+U.S.C. § 441a(a)(1)(A). n4 The limit for contributions by an individual to a
+federal  [*5]  political party committee is $ 32,400 per year. Id. §
+441a(a)(1)(B). This $ 32,400 annual limit applies separately to each of the
+three federal committees of a political party -- the national party committee
+(e.g., the RNC or DNC), the party's Senate campaign committee, and the party's
+House campaign committee. 11 C.F.R. § 110.1(c)(3). The limit on contributions by
+an individual to a state political party committee is $ 10,000 per year, and
+this limit applies separately to each of the 50 state parties. 2 U.S.C. § 441a
+(a)(1)(D); 11 C.F.R. § 110.1(c)(5). Lastly, individuals may give up to $ 5,000
+per year to a multicandidate committee or any other political committee that
+gives to candidates ("PAC"). 2 U.S.C. § 441a(a)(1)(C)  [**12]  .
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n3 Every candidate is permitted to raise contributions up to the applicable
+primary election contribution limit, regardless of whether a primary election is
+held in his or her race. 11 C.F.R. § 110.1(j).
+
+
+   n4 The dollar limits in the statute are indexed for inflation and are
+consequently now higher than the amounts that appear in the statute. FEC,
+Contribution Limits for 2013-2014,
+http://www.fec.gov/info/contriblimitschart1314.pdf (last visited July 16, 2013).
+
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   All of these contributions subject to the federal limits ("hard money") are
+also subject to the umbrella aggregate limits of 2 U.S.C. § 441a(a)(3). All
+contributions by an individual to federal candidates are capped at an aggregate
+of $ 48,600 on a biennial basis ("$ 48,600 aggregate limit"), 2 U.S.C. § 441a
+(a)(3)(A), and all contributions by an individual to non-candidate political
+committees (including party committees) are capped at $ 74,600 biennially ("$
+74,600 aggregate [**13]  limit"), id. § 441a(a)(3)(B).
+
+   These aggregate limits are crucial to making the base contribution limits
+effective. Without the $ 48,600 aggregate limit, a single donor could contribute
+$ 5,200 to every Republican or Democratic House and Senate candidate in an
+election cycle. In aggregate, this individual could contribute $ 2,433,600 to
+all the federal candidates of one party (given 468 federal  [*6]  elections per
+cycle, not including run-offs or presidential candidates).
+
+   Eliminating the $ 74,600 aggregate limit would also enable a single donor to
+give similarly massive contributions to party committees. By contributing $
+32,400 to each of a party's three federal party committees each year, a single
+donor could give $ 194,400 to just the national party in a two-year election
+cycle. The same donor could give $ 1 million to that party's state committees by
+contributing $ 10,000 a year (or $ 20,000 in a two-year cycle) to each of that
+party's 50 state committees. By this means, a single wealthy donor could
+contribute $ 1,194,400 to one party's committees in a single election cycle.
+Combined with the contributions that could be made directly to that party's
+candidates, a single [**14]  donor could provide $ 3,628,000 in "limited" hard
+money contributions to a party and its federal candidates in a single election
+cycle.
+
+   Finally, the same individual could also contribute to an indeterminate -- but
+potentially vast -- number of PACs aligned with his partisan or ideological
+interests. In the 2012 elections, over 2,757 "non-connected" PACs (not including
+independent expenditure-only PACs) were active. See FEC, FEC Summarizes Campaign
+Activity of the 2011-2012 Election Cycle (Apr. 19, 2013),
+http://www.fec.gov/press/press2013/20130419_2012-24m-Summary.shtml. If those
+committees are roughly split between the two major parties in terms of
+ideological orientation, donors theoretically could give $ 10,000 to over 1,350
+PACs aligned with their  [*7]  interests, or approximately $ 13.5 million, in a
+two-year election cycle. Even assuming conservatively that only 10% of these
+ideologically-aligned committees are "likely to contribute to [the donor's
+preferred] candidate[s]," as described in Buckley, that donor would have another
+outlet for over $ 1,350,000 in contributions in an election cycle.
+
+   It is only the aggregate limits that prevent the flow of [**15]  such massive
+and plainly corrupting donations from donors seeking political influence to
+federal candidates and party leaders.
+
+B. Invalidation of the Aggregate Limits Would Transform Political Party
+Committees Into "Soft Money" Vehicles for Donors Seeking to Circumvent the Base
+Limits.
+
+1. Laws Permitting Joint Fundraising and Unlimited Internal Party Transfers
+Would Facilitate Circumvention.
+
+   It is not at all far-fetched to foresee that political parties would become
+vehicles for circumvention in the absence of aggregate limits: the law has
+mechanisms already in place that would facilitate a political party's efforts to
+raise, organize and spend such money, and those mechanisms are already used by
+parties and their candidates within the limits of current law.
+
+   Simply put, "joint fundraising" allows two or more political committees --
+including "political party  [*8]  committees . . . candidate committees [and]
+multi-candidate committees" -- to form a committee exclusively for joint
+fundraising efforts. 11 C.F.R. § 102.17(a)(2). A donor may make a single check
+to the joint fundraising committee equaling the "total amount that the
+contributor [**16]  could contribute to all of the participants under the
+applicable limits." Id. § 102.17(c)(5). This check is then "split" between the
+participating committees according to written agreement, but a participant's
+allocation cannot exceed its applicable contribution limit. Id. § 102.17(c)(6).
+
+   Using this mutually beneficial arrangement, parties and candidates can
+coordinate their fundraising efforts without running afoul of contribution
+limits. Most importantly, donors are relieved of the logistical challenge of
+making separate contributions to an array of different committees, and instead
+can simply write one check to a joint fundraising entity and receive immediate
+recognition for their largesse. Finally, in the case of a joint fundraising
+committee established between a candidate and party committees, a donor can not
+only contribute to the participating candidate, but also "signal" his interest
+in having the party committees use their allocated share of the proceeds to
+support this candidate.
+
+   In its simplest iteration, for example, a presidential candidate can form a
+joint fundraising committee with the candidate's national party and raise $
+37,600 in a single check, of which [**17]  $ 5,200 can be dispersed to the
+candidate and $ 32,400 to the national party committee. Variants of this model
+were used by both  [*9]  the Democratic and Republican presidential nominees in
+the 2008 and 2012 elections. See Section I.B.2 infra.
+
+   Eliminate the aggregate limits, however, and these joint fundraising
+committees would be able to receive single checks of astronomical amounts from
+individual donors. A candidate could join with the three federal party
+committees to form a joint fundraising committee that could receive checks of $
+102,400 (with $ 32,400 applied to the contribution limit of each party committee
+and $ 5,200 applied to the limit of the candidate's campaign committee). Nothing
+would prevent these participants from adding the 50 state parties to their
+effort. The massive joint fundraising committee that would result could receive
+a huge check totaling $ 602,400 in a year from a single individual (with $
+97,200 allocated to the national party committees, $ 500,000 to the state party
+committees and $ 5,200 to the candidate campaign committee). And in a two-year
+election cycle, the total amount that could be raised would nearly double to
+approximately [**18]  $ 1.2 million.
+
+   Second, federal law allows for unrestricted transfers between, inter alia,
+national and state party committees of the same party; and joint fundraising
+committee participants. See 2 U.S.C. § 441a(a)(4); 11 C.F.R. § 110.3(c)(1), (2).
+The law also permits candidates to transfer money to national, state and local
+committees of their political party without limit. 2 U.S.C. § 439a(a)(4).
+
+    [*10]  In the case of a joint fundraising committee, the liberal transfer
+rules allow money jointly raised and subsequently allocated between the
+participating committees to be quickly routed back to a single committee. Thus,
+the joint fundraising committee discussed above, i.e., "Entire Party Joint
+Fundraising Committee," could take a donor's $ 602,000 check and allocate that
+money to the participating candidate committee and each of the party committees
+in order to attribute it to each participant's contribution limit. Then,
+however, all of the participating committees could each transfer their allocated
+amount back to a single federal party committee, such as the DNC or RNC. Because
+these allocations and [**19]  transfers can be performed electronically and
+instantaneously, most of the donor's $ 602,000 check made out to "Entire Party
+Joint Fundraising Committee" could quickly end up being deposited into a single
+federal party committee's bank account.
+
+   Finally, the contributions aggregated in a federal party committee account
+could ultimately be used to benefit the candidate who had participated in the
+joint fundraising effort. The national party can contribute $ 5,000 directly to
+a candidate, 2 U.S.C. § 441a(a)(1)(C), and then donate significantly more in the
+form of coordinated expenditures. Id. § 441a(d). Coordinated party expenditures
+do not count against the party's contribution limit, but are subject to a
+different and higher set of limits: most recently, $ 21,684,200 for presidential
+nominees; a range from $ 91,200 to $ 2,593,100 for Senate nominees; and  [*11]
+$ 45,600 or $ 91,200 for House nominees. See FEC, Coordinated Party Expenditure
+Limits 2012, http://www.fec.gov/info/charts_441ad_2012.shtml (last visited July
+12, 2013). Once the coordinated spending limit is reached, parties can make
+unlimited independent expenditures in support of a [**20]  candidate, such as
+for express advocacy advertisements or GOTV in the relevant jurisdiction. Thus,
+by contributing to a joint fundraising committee formed by a favored candidate
+and multiple committees of that candidate's party, donors can signal to the
+participants, without triggering the earmarking rules, that their entire
+contribution should ultimately be used to support the participating candidate.
+
+   In short, without the aggregate limits, joint fundraising and unrestricted
+intra-party transfers would make the parties effective vehicles for
+circumvention because these techniques streamline the donation process for
+influence-seeking donors and enable such donors to communicate to party
+committees the identity of their preferred candidates.
+
+2. The Practice of Joint Fundraising Is Not Hypothetical.
+
+   There can be no doubt that joint fundraising is legal. The FEC has permitted
+the use of "joint fundraising committees" in its regulations for at least 30
+years. See Transfers of Funds, Collecting Agents and Joint Fundraising,
+Explanation and Justification, 48 Fed. Reg. 26296 (June 7, 1983) (codified as
+amended  [*12]  at 11 C.F.R. § 102.17 [**21]  ). Appellants acknowledge as much,
+stating that "joint-fundraising contributions are hard money, for which Congress
+has already satisfied its conduit-contribution concern." RNC Br. 47.
+
+   It is thus paradoxical that appellants also attempt to characterize joint
+fundraising, as described by the district court, as a "far-fetched"
+"hypothetical scenario." McCutcheon Br. 44-45. One can only assume they deny
+this reality in an attempt to undercut the lower court's finding that absent the
+aggregate limits, joint fundraising would offer a simple technique for donors
+seeking to direct "half-a-million dollars" to their candidates of choice without
+running afoul of the earmarking rules. McCutcheon v. FEC, 893 F. Supp. 2d 133,
+140 (D.D.C. 2012). But there is nothing hypothetical about joint fundraising. It
+is a fundraising practice that has been in regular use for over a decade, and
+there is no serious doubt about its existence or efficacy.
+
+   The use of joint fundraising committees first began in earnest in 2000, and
+was initially prevalent in Senate races. n5 During the 2000 election, 21 Senate
+candidates, including 14 Democrats and seven Republicans, formed joint
+fundraising [**22]  committees with party committees. n6
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n5 Anthony Corrado, Party Finance in the 2000 Elections: The Federal Role of
+Soft Money Financing, 34 Ariz. St. L.J. 1025, 1040 (2002).
+
+
+   n6 Id. at 1041.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+    [*13]  Joint fundraising committees were established by presidential
+candidates in the 2000 and 2004 elections, but not until 2008 did this technique
+became "a central component of both the candidates' and parties' fundraising
+strategies." n7 In 2008, then-presidential nominee Barack Obama and the DNC
+established a joint fundraising committee that could accept checks of over $
+33,000. n8 Then-presidential nominee John McCain was connected to a somewhat
+more complex joint fundraising effort involving the RNC, certain state
+Republican parties, and his campaign's compliance fund that accepted as much as
+$ 70,000 per donor. n9 In total, "the McCain campaign and Republican Party
+committees raised approximately $ 221 million through ten separate [joint
+fundraising committees]," while Obama [**23]  and the Democratic Party  [*14]
+raised "approximately $ 228 million through three [joint fundraising
+committees]." n10
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n7 Keena Lipsitz & Costas Panagopoulos, Filled Coffers: Campaign
+Contributions and Contributors in the 2008 Elections, 13 J. Pol. Marketing 21,
+48 (2011).
+
+
+   n8 Michael Luo & Griff Palmer, In Fine Print, a Proliferation of Large Donors
+, N.Y. Times, Oct. 20, 2008,
+http://www.nytimes.com/2008/10/21/us/politics/21donate.html.
+
+
+   n9 Matthew Mosk, McCain Able to Skirt Limits of Federal Financing, Wash.
+Post, Sept. 17, 2008,
+http://www.washingtonpost.com/wp-dyn/content/article/2008/09/16/AR2008091603321.
+html. For more on the presidential joint fundraising committees in 2008, see
+Ctr. for Responsive Pol., Joint Fundraising Committees,
+http://www.opensecrets.org/pres08/jfc.php?cycle=2008 (last visited July 12,
+2013).
+
+
+   n10 Michael E. Toner, The Impact of Federal Election Laws on the 2008
+Presidential Election, in The Year of Obama: How Barack Obama Won the White
+House 149, 156 (Larry J. Sabato ed., 2009).
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**24]
+
+   The total amount raised by presidential joint fundraising committees
+increased substantially in the 2012 elections. Romney's joint fundraising
+committee, Romney Victory, raised over $ 492 million, and Obama's committees,
+Obama Victory Fund and Swing State Victory Fund, raised over $ 460 million. n11
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n11 Ctr. for Responsive Pol., Joint Fundraising Committees,
+http://www.opensecrets.org/pres12/jfc.php (last visited July 2, 2013).
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   All of this information is publicly available on the FEC's website, and it is
+improbable that appellants are unaware of these facts. n12 They therefore have
+no basis for their skepticism regarding the existence of joint fundraising.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n12 Fundraising totals for particular joint fundraising committees can be
+found using the FEC's online search engine, available at
+http://www.fec.gov/finance/disclosure/candcmte_info.shtml. Conducting an
+advanced search by committee type (i.e., "Joint Fundraising Committee") further
+reveals that there are over 300 joint fundraising committees active in 2013,
+confirming that the practice remains widespread.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**25]
+
+   The evidence also indicates that presidential joint fundraising committees
+were designed to ensure that the fundraising proceeds allocated to the
+participating party committees were in large part used to  [*15]  benefit the
+"headlining" candidate. In 2012, Romney Victory accepted checks as large as $
+75,800, n13 and allocated $ 40,000 "to state GOP accounts in Idaho,
+Massachusetts, Oklahoma, and Vermont," none of which were swing states in the
+2012 election. n14 These state parties were chosen as participants in the joint
+fundraising effort because they could be counted on to transfer the money to
+battleground states. n15 As a Republican fundraiser stated, "I guarantee the
+reason they're asking for those is [because] they can control them." n16 The
+fact that three of the four state parties receiving Romney Victory funds were
+headed by Romney loyalists "provide[d] the Romney camp with assurance that the
+money will be transferred to swing-state parties as the campaign desires and not
+be diverted to other efforts." n17
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n13 See Kenneth P. Vogel & Abby Phillip, Mitt Romney winning mega-donor war,
+Politico, June 21, 2012, http://www. politico.com/news/stories/0612/77680.html.
+ [**26]
+
+
+
+   n14 David M. Drucker, Mitt Romney's Fundraising Boost Stems From Unique
+Tactic, Roll Call, July 30, 2012,
+http://www.rollcall.com/issues/58_13/Mitt-Romneys-Fundraising-Boost-Stems-From-U
+nique-Tactic-216525-1.html.
+
+
+   n15 Id.
+
+
+   n16 Id.
+
+
+   n17 Paul Blumenthal, Romney Victory Raises $ 140 Million, Exploits Campaign
+Finance Loophole, Huffington Post, July 16, 2012,
+http://www.huffingtonpost.com/2012/07/16/romney-victory-fundraising_n_1675231.ht
+ml.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   In short, the use of joint fundraising as an informal means of "earmarking"
+contributions is far from  [*16]  "hypothetical," see McCutcheon Br. 44; it is
+now standard practice. n18
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n18 Appellants also argue that prohibiting joint fundraising would be a more
+narrowly tailored solution for circumvention than retaining the aggregate
+limits. McCutcheon Br. 60. But this assertion -- even insofar as it is relevant
+given that the "least restrictive means" test is inapplicable here, see, e.g.,
+California Med. Ass'n v. FEC (CalMed), 453 U.S. 182, 199 n.20 (1981) -- rests on
+the faulty premise that joint fundraising is the only means of circumventing the
+base contribution limits. But this Court has noted multiple ways that donors
+circumvent the contribution limits without earmarking. Buckley warned of the
+dangers entailed in the "use of unearmarked contributions to political
+committees likely to contribute to [preferred] candidates" even though joint
+fundraising had not been developed in any significant way in 1976. And in
+Colorado II, the Court expressed concern that a party "tallying" system, i.e., a
+party's informal records of its candidates' fundraising, furthered circumvention
+without necessarily triggering the earmarking restrictions. 533 U.S. at 459.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**27]
+
+C. Invalidation of the Aggregate Limits Would Multiply Candidate-to-Candidate
+Contributions and Reinvigorate the Practice of "Soft Money" Solicitations by
+Federal Candidates and Officeholders.
+
+1. In the Absence of the Aggregate Limits, Candidates Could Participate in
+Massive Circumvention Schemes.
+
+   Eliminate the aggregate limits, and candidates would control two vehicles for
+large-scale circumvention -- namely, their campaign committees and their
+leadership committees. A candidate may contribute  [*17]  $ 4,000 from his
+campaign committee to another candidate in a two-year election cycle. 11 C.F.R.
+§ 102.12(c)(2). In addition, candidates may establish a "leadership PAC," which
+is simply a multicandidate committee that is controlled or maintained by an
+officeholder or candidate. See 2 U.S.C. § 434(i)(8)(B); 11 C.F.R. § 100.5(e)(6).
+A leadership PAC, like any multicandidate committee, may contribute up to $
+5,000 to another candidate. 2 U.S.C. § 441a(a)(1)(C).
+
+   As discussed in Section I.A. supra, without the aggregate limits, donors
+could give more than $ 2.4 million [**28]  to the campaign committees of their
+preferred party's candidates. They could also give to the leadership PACs that
+many candidates have established. These funds would not have to remain dispersed
+in the committees of 400 or more candidates. Donors could indicate with a "wink
+and a nod" or other informal means that certain recipients should transfer their
+contributions to their favored candidate. According to the FEC, there were 1,949
+congressional candidates in the 2012 elections, and in addition, 532 active
+leadership PACs. n19 Even if only a fraction of these committees were willing to
+serve as conduits for a big donor seeking to circumvent the base limits,  [*18]
+there would still be potentially hundreds of committees available to this donor.
+
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n19 FEC Summarizes Campaign Activity, http://www.fec.gov/
+press/press2013/20130419_2012-24m-Summary.shtml. A candidate's campaign
+committee and his leadership PAC are not considered affiliated committees, see
+11 C.F.R. § 100.5(g)(5). Consequently, each may separately contribute to a given
+candidate, and are not deemed to be a single committee for the purposes of the
+contribution limits.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**29]
+
+   Further, to accomplish the circumvention scheme described above, a donor
+would not need to direct an elaborate conspiracy involving hundreds of
+candidates, but instead could simply request that the recipients of his largesse
+transfer the funds to a party committee. There is no prohibition on a donor
+"earmarking" contributions to a candidate for transfer to a political party. See
+2 U.S.C. § 441a(a)(8). These contributions could then be aggregated in party
+coffers and ultimately spent to benefit the donor's preferred candidates.
+
+   Appellants and their amici suggest that these circumvention schemes are
+"implausible" or "hypothetical" but fail to recognize that there are significant
+incentives for candidates to serve as intermediaries in this scheme. See Br. of
+NRSC and NRCC as Amici Curiae Supp. Pls.-Appellants at 30. It is already typical
+for candidates to fundraise for other candidates and officeholders in their
+party. In 2012, leadership PACs contributed approximately $ 46 million to
+federal candidates, either by donating their own funds or serving as
+intermediaries for other contributors. See Ctr. for Responsive Pol., Leadership
+PACs [**30]  , http:// www.opensecrets.org/pacs/industry.php?txt=Q03&cycle=2012
+(last visited July 10, 2013). n20 As amici NRSC  [*19]  and NRCC admit, direct
+candidate-to-candidate giving is also significant: in 2012, contributions from
+candidate campaign committees to other candidate campaign committees totaled
+over $ 3.6 million. NRSC and NRCC Br. 29. The incentives for peer-to-peer giving
+are clear. Prolific contributors reap both the indirect benefit of enhanced
+political standing and clout among their peers, and the more tangible benefits
+of "prestige committee assignments, committee leadership positions, extended
+leadership positions and, in the majority party, . . . greater floor access for
+their legislation." n21 Therefore, it is customary for Members seeking key
+committee assignments or leadership positions to give generously to their peers:
+some of the biggest donors in 2012 were, unsurprisingly, Speaker of the House
+John Boehner's leadership PAC ($ 1,725,000 in contributions) and House Minority
+Whip Steny Hoyer's leadership PAC ($ 1,448,000 in contributions). Ctr. for
+Responsive Pol., Leadership PACs, supra.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n20 Several PACs that were headed by non-federal or former federal
+officeholders were included in the tally, but their aggregate giving comprised
+less than $ 1.5 million. Ctr. for Responsive Pol., Leadership PACs, supra.
+ [**31]
+
+
+
+   n21 Eric S. Heberlig & Bruce A. Larson, Congressional Parties and the
+Mobilization of Leadership PAC Contributions, 16 Party Pol. 451, 454 (2010)
+(internal citations omitted).
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   The incidence of candidate-to-candidate contributions, as well as the entire
+phenomenon of leadership PACs, attests to the substantial advantages created by
+such giving. If aggregate limits were eliminated, big donors wishing to route
+money in excess of the base limits to their preferred candidates would likely
+[*20]  find a host of willing intermediaries among the candidates' peers.
+
+2. Invalidation of the Aggregate Limits Would Allow Candidates to Solicit
+Multi-Million Dollar Checks, Recreating the Corruptive Practices That
+Necessitated the Bipartisan Campaign Reform Act.
+
+   Absent the aggregate limits, candidates would be able to solicit donors for
+huge sums of money that in appearance and effect would be the equivalent of
+"soft money donations," i.e., money not subject to the federal limits, but would
+be treated as the aggregation of numerous hard money contributions.
+
+   The Bipartisan Campaign Reform Act [**32]  (BCRA) amended FECA to provide
+that federal party committees, as well as federal officeholders and candidates,
+"may not solicit, receive, or direct to another person a contribution, donation
+or transfer of funds or any other thing of value . . . that are not subject to
+[FECA's] limitations, prohibitions, and reporting requirements. . . ." 2 U.S.C.
+§ 441i(a)(1), (e)(1). Otherwise put, a federal officeholder or candidate can
+only solicit, receive, direct or transfer hard money subject to the federal
+contribution limits.
+
+   These solicitation restrictions would be functionally nullified if the
+aggregate limits were to be invalidated. Because one donor would be able to give
+a joint fundraising committee a single check for over  [*21]  $ 600,000 in funds
+that are subject to FECA's hard money limits, candidates would be able to
+solicit eye-popping sums while technically remaining in compliance with the
+solicitation restriction.
+
+   Further, candidates and parties would likely work together to ensure that
+candidates who solicit large amounts for their parties would also be the
+beneficiaries of the spending by their parties. In addition to joint fundraising
+practices,  [**33]  certain federal party committees have also employed a "tally
+system," wherein the party keeps informal records of the money that a candidate
+raises for her party and credits those funds to either that candidate's campaign
+or to any other candidates of her choice. See, e.g., FEC v. Colorado Republican
+Fed. Campaign Comm. (Colorado II), 533 U.S. 431, 459 (2001) (noting that tally
+system made party committees conduits for unearmarked contributions by
+"connect[ing] donors to candidates through the accommodation of a party"); id.
+at 460 n.23.
+
+   Thus, in a regime without aggregate limits, one can foresee that a candidate
+headlining joint fundraising efforts would make solicitations for massive
+contributions. As discussed in Section I.B., the "Entire Party Joint Fundraising
+Committee" comprised of all of the federal and state committees of the
+candidate's party would be able to raise over $ 600,000 per year and $ 1.2
+million per election cycle from a single donor. The candidate could solicit
+donors for this amount, because such contributions will  [*22]  technically be
+within the federal limits and are thus permitted by the solicitation
+restrictions.  [**34]  Once allocated to the participating party committees, the
+contributions could be transferred to a single party committee, where they could
+be used for the benefit of the candidate who participated in the fundraising
+effort and solicited the money. Such an arrangement would plainly enable a
+candidate to solicit huge contributions for her own campaign -- she need only
+direct the money through a party joint fundraising committee with the
+understanding that the party committees would spend it for her benefit.
+
+   These scenarios are not fanciful. The history of campaign finance shows that
+when it comes to maximizing the raising and spending of campaign money, what can
+be done will be done. Only the aggregate limits now act as the critical bulwark
+against such easy and open circumvention of the underlying contribution limits.
+
+II. The Governmental Interests That Were Found in Buckley to Support the
+Constitutionality of the Original $ 25,000 Aggregate Limit Support the Current
+Aggregate Limits.
+
+A. The Aggregate Limits Block Circumvention of the Base Contribution Limits.
+
+   In Buckley, the Supreme Court found that the $ 25,000 aggregate limit was
+justified principally [**35]  by  [*23]  the governmental interest in preventing
+circumvention of FECA's base contribution limits, explaining:
+
+
+     But this quite modest restraint upon protected political activity
+     serves to prevent evasion of the $ 1,000 contribution limitation by a
+     person who might otherwise contribute massive amounts of money to a
+     particular candidate through the use of unearmarked contributions to
+     political committees likely to contribute to that candidate, or huge
+     contributions to the candidate's political party.
+
+
+424 U.S. at 38.
+
+   The same circumvention schemes outlined by Buckley remain possible today, and
+continue to justify the challenged aggregate limits. Absent the aggregate
+limits, contemporary donors could still circumvent the base contribution limits
+by making "unearmarked contributions to political committees likely to
+contribute to [their preferred] candidate." Similarly, without the challenged
+limits, donors could still route "massive amounts of money" to their preferred
+candidates by donating a "huge contribution" in the form of aggregated hard
+money contributions to the candidates' political party. Appellants' attempts to
+prove otherwise are [**36]  untenable.
+
+    [*24]  1. The $ 74,600 Aggregate Limit on Contributions to Party Committees
+and PACs
+
+   Appellants do not contest that Buckley explicitly sustained the $ 25,000
+limit, the predecessor of the limits challenged here, on grounds that it
+deterred evasion of the base contribution limits. Attempting to escape this
+governing precedent, however, they claim that amendments to the law after
+Buckley now prohibit the circumvention feared by the Buckley Court, and that
+consequently the $ 74,600 aggregate limit is no longer justified.
+
+   In so arguing, appellants rely on a faulty and incomplete history of FECA's
+enactment and amendment. They also rely on an incorrect understanding of
+Buckley's holding, claiming that the Court was motivated not by a broad concern
+about circumvention, but rather by much narrower fears of "political committee
+proliferation" and the specter of "unlimited" contributions to the political
+parties. Because appellants' premises fail, so too does their argument that the
+post-Buckley amendments to the law "solved" the "conduit contribution concern"
+identified in Buckley.
+
+   a. Appellants Rely Upon a Flawed History of FECA's Enactment.  [**37]
+
+   At the time Buckley was decided, the original FECA had already undergone a
+round of amendments. See FECA Amendments of 1974 ("1974 Amendments"),   Pub. L.
+No. 93-443,    88 Stat. 1263. In addition to the  [*25]  aggregate limits, the
+1974 Amendments added, inter alia, the following provisions relevant to this
+case:
+
+
+     . Contribution limits, including a $ 1,000 limit on contributions to
+     candidates; and a $ 5,000 limit on contributions from a political
+     committee (including party committee) to a candidate. Id. § 101(a), 88
+     Stat. at 1263 (codified as amended at 2 U.S.C. §§ 441a(a)(1)-(2)).
+
+     . Party coordinated spending limits restricting the amount a party
+     could spend in coordination with their presidential, senatorial and
+     congressional nominees. Id. § 101(a), 88 Stat. at 1265-66 (codified as
+     amended at 2 U.S.C. § 441a(d)).
+
+     . An earmarking provision providing that contributions that were
+     earmarked or "otherwise directed through an intermediary or conduit"
+     to a candidate would be deemed a contribution from the original [**38]
+     donor. Id. § 101(a), 88 Stat. at 1264 (codified as amended at 2 U.S.C.
+     § 441a(a)(8)).
+
+     . A provision banning contributions "in the name of another." Id. §
+     101(f), 88 Stat. at 1267-68 (codified as amended at 2 U.S.C. § 441
+     (f)).
+
+
+Following the Buckley decision, the FECA Amendments of 1976 ("1976 Amendments"),
+
+  Pub. L. No. 94-283,    90 Stat. 475, included a few additional provisions
+highlighted by appellants:
+
+
+      [*26]  . Additional contribution limits, including a $ 20,000 limit
+     on contributions to national party committees; and a $ 5,000 limit on
+     contributions to multicandidate committees. Id. sec. 112(2), §
+     320(a)(1)(B)-(C), 90 Stat. at 487 (codified as amended at 2 U.S.C. §§
+     441a(a)(1)(B)-(C)).
+
+     . A transfer provision providing that transfers between national state
+     and local committees of the same political party are not subject to
+     the contribution limits. Id. sec. 112(2), § 320(a)(4), 90 Stat. at 487
+     (codified as amended at 2 U.S.C. § 441a(a)(4)  [**39]  ).
+
+     . An "anti-proliferation" provision stating that contributions from
+     committees established, financed, maintained or controlled by the same
+     corporation, union, organization or person would be deemed to have
+     been made by a single political committee. Id. sec. 112(2), §
+     320(a)(5), 90 Stat. at 487-88 (codified as amended at 2 U.S.C. § 441a
+     (a)(5)).
+
+   Appellants' description of this history is misleading. They are correct in
+stating that the "anti-proliferation" provision was passed in 1976, but this
+provision is not relevant to the function of the aggregate limit, as discussed
+in the following section.
+
+   Their discussion of the base contribution limits is fatally incomplete. It is
+true that in 1974, FECA contained no limits on contributions to political party
+committees or to PACs. It was not until 1976 that  [*27]  Congress added a $
+20,000 limit on contributions to a national party committee, and a $ 5,000 limit
+on contributions to multicandidate PACs. See 1976 Amendments, sec. 112(2), §
+320(a)(1)(B)-(C), 90 Stat. at 487. But appellants fail to mention that at the
+time of Buckley, candidates were limited [**40]  in how much they could accept
+from party committees and multicandidate committees. Party committees and PACs
+could contribute only $ 5,000 to a candidate, although the parties were
+permitted to make a prescribed amount of coordinated expenditures in connection
+to a candidate as well. See 1974 Amendments, § 101(a), 88 Stat. at 1263,
+1265-66; see also Buckley, 424 U.S. at 13 n.12, 35-36. Thus, even without the $
+25,000 aggregate limit, at the time of Buckley, a donor could not route an
+"unlimited" contribution through parties and PACs to a particular candidate.
+
+   Finally, appellants are simply wrong in suggesting that the earmarking
+provision included in the 1974 Amendments, § 101(a), 88 Stat. at 1264, and the
+"in the name of another" prohibition, id. § 101(f), were first enacted after
+Buckley. See McCutcheon Br. 42-43, 43 n.20; RNC Br. 38-39. Both were passed as
+part of the 1974 Amendments and were thus in effect when Buckley was decided.
+n22
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n22 Appellants' confusion may stem from the fact that the 1976 Amendments
+transferred these provisions -- in language identical to then-existing law --
+from title 18 to title 2 of the U.S. Code. See H. R. Rep. 94-1057, at 53 (1976)
+(Conf. Rep.), reprinted in 1976 U.S.C.C.A.N. 946, 968.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**41]
+
+    [*28]  b. Appellants Mischaracterize Buckley in an Attempt to Characterize
+the Aggregate Limits as Redundant.
+
+   After constructing this flawed history of FECA's enactment and amendment,
+appellants argue that the 1976 amendments to the law addressed Buckley's
+circumvention concerns. But to make this argument, appellants must not only
+distort the history of the Act, but also must distort the holding of Buckley. In
+effect, they are "reverse-engineering" the concerns they claim informed the
+Buckley decision to "match" the changes to the law that postdated the decision:
+only by thus mischaracterizing the reasoning of Buckley can they maintain their
+unsustainable claim that subsequent amendments to the law rendered the aggregate
+limits obsolete.
+
+   Thus, because an "anti-proliferation" law was passed after Buckley,
+appellants unsurprisingly assert that the "analytical key" to the Court's
+decision to uphold the $ 25,000 aggregate limit was concern about donors giving
+to a "proliferation of political committees," i.e., multiple committees
+controlled by a single individual or entity. RNC Br. 17-18. Appellants claim
+that the 1976 Amendments to FECA fully addressed [**42]  this concern, and
+therefore rendered the aggregate limits redundant. Id. at 21-22.
+
+   The problem with this argument is that the Buckley Court did not even mention
+"political-committee proliferation" in its analysis of the $ 25,000 aggregate
+limit, and certainly did not suggest that  [*29]  political committees under
+common control represented the only avenue for circumvention. See Buckley, 424
+U.S. at 38. The Court's decision to uphold the $ 25,000 aggregate limit was
+instead animated by the far broader concern that donors seeking to give
+contributions in excess of the federal limits to their favored candidate would
+simply channel "unear-marked contributions to political committees likely to
+contribute to that candidate." Id. The inapplicability of "political-committee
+proliferation" to the analysis of the $ 25,000 aggregate limit is made apparent
+by appellants' failure to offer any textual support other than a passage
+imported from an entirely different section of Buckley. RNC Br. 18 (citing 424
+U.S. at 28 n.31) (discussing $ 1,000 base contribution limitation). Further, a
+plain reading of the Court's discussion of the type of circumvention [**43]
+that the aggregate limit thwarted -- i.e., the donation of "unearmarked
+contributions to political committees likely to contribute to [the donor's
+preferred] candidate" -- also contradicts appellants' proliferation argument.
+424 U.S. at 38 (emphasis added). Multiple committees under the control of single
+donor are not merely likely to contribute to a preferred candidate; instead such
+committees will certainly contribute in the manner directed by this donor --
+that is the entire point of common control. Buckley's articulation of the threat
+thus does not comport with the nature of appellants' "anti-proliferation"
+theory.
+
+   Second, appellants contend that the Buckley Court sustained the aggregate
+limit only because it  [*30]  feared that otherwise individuals could make
+"unlimited" contributions to political parties and PACs, which then could be
+funneled to their preferred candidates. McCutcheon Br. 41. This alleged fear,
+according to appellants, was alleviated by the enactment of additional
+contribution limits by the 1976 Amendments. Id. at 41-42. But as described in
+the foregoing section, both party committees and PACs in 1974 were subject to
+[**44]  limits on how much they could contribute to, or spend in coordination
+with, candidates. Thus, even without the $ 25,000 aggregate limit, the law at
+the time of Buckley would not have permitted donors to route "unlimited"
+contributions through parties and PACs to a particular candidate. Because the
+amount of money that could pass through a party or PAC was already restricted,
+the limits on contributions to a party or PAC added by the 1976 Amendments had
+at most a limited effect on circumvention.
+
+   Indeed, absent the aggregate limits, a donor today could route virtually as
+much money through a party committee to a candidate as she could have at the
+time of Buckley. To be sure, at the time of Buckley, the donor could have made
+unlimited contributions to a political party absent the aggregate limits. But,
+similarly, a donor today could contribute a massive sum exceeding $ 1 million to
+a party absent the aggregate limits: she would simply have to route the money
+through its three federal committees and 50 state committees. In 1975, the party
+in turn could have contributed $ 5,000 of this donation to the  [*31]  donor's
+preferred House candidate n23 and made $ 10,000 in coordinated [**45]
+expenditures. 1974 Amendments, § 101(a), 88 Stat. at 1265-66. In 2013, the party
+could have contributed $ 5,000 of the donation to the donor's preferred House
+candidate and made $ 46,600 in coordinated expenditures. See FEC, 2013
+Coordinated Party Expenditure Limits,
+http://www.fec.gov/info/charts_441ad_2013.shtml (last visited July 19, 2013).
+Thus, although new contribution limits have been enacted post-Buckley, they have
+done little to block the circumvention that Buckley feared.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n23 These are the coordinated party spending limits for House candidates in
+states with more than one Representative.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   Finally, in a statement that flatly contradicts the holding of Buckley,
+appellants assert that this Court should only be concerned about circumvention
+when contributions to a party or PAC are "earmarked" for a particular candidate.
+Without this designation, appellants contend, a contribution funneled through a
+"pass-through" entity to a donor's candidate of choice "is non-cognizable [**46]
+as a conduit-contribution concern." RNC Br. 49.
+
+   Once more, appellants insinuate that the passage of new laws ameliorated the
+dangers of earmarked contributions. McCutcheon Br. 42-43 (suggesting that
+Congress specifically addressed problem of donors "channeling contributions
+through a PAC or political party committee"). But as the foregoing history of
+FECA confirms, the earmarking provision was  [*32]  enacted in 1974. Thus, the
+Buckley Court was aware that the law regulated earmarked contributions, see 424
+U.S. at 23-24, and yet still found that the $ 25,000 aggregate limit was
+necessary to forestall circumvention schemes involving the donation of "
+unearmarked contributions to political committees likely to contribute to [a
+donor's preferred] candidate." 424 U.S. at 38 (emphasis added). Directly at odds
+with appellants' suggestion, it was precisely the flow of unearmarked
+contributions that gave rise to circumvention concerns.
+
+   Further, Buckley is hardly the only Supreme Court precedent to have found
+that unearmarked contributions can pose a danger of circumvention. For example,
+the plaintiffs in Colorado II argued that the coordinated [**47]  spending
+limits were overbroad because any circumvention through parties could be more
+narrowly addressed by application or enhancement of the earmarking rules. 533
+U.S. at 462. While not disputing that the earmarking rules might prevent some
+measure of circumvention -- namely, "the most clumsy attempts to pass
+contributions through to candidates" -- the Supreme Court rejected the argument
+that this regulation obviated the government's concerns. Id. As the Court noted,
+"[plaintiffs'] position . . . ignores the practical difficulty of identifying
+and directly combating circumvention under actual political conditions." Id.
+Thus, far from endorsing appellants' claim that unearmarked contributions are by
+definition benign, the Colorado II Court rejected the  [*33]  notion that "the
+earmarking provision [was] the outer limit of acceptable tailoring." Id.
+
+   In short, appellants have no basis for their misreading of Buckley, or for
+their contention that post-Buckley amendments addressed the concerns that the
+Court articulated there. An aggregate limit remains as relevant today as it was
+when Buckley was decided.
+
+   2. The $ 48,600 Aggregate  [**48]   Limit on Contributions to Candidates
+
+   As documented in Section I.C. supra, candidates reap significant rewards for
+contributing to, and serving as intermediaries for, other candidates and
+officeholders. Eliminate the aggregate limits, and donors seeking to purchase
+influence would use candidate campaign committees as yet another conduit for
+channeling donations to their favored candidates.
+
+   In addition, FECA permits candidates to transfer funds without limit to their
+political party, so contributions to individual candidates can easily be
+transferred to party coffers and aggregated for the benefit of a donor's
+preferred candidates. An influence-seeking donor would not need to communicate
+the details of the circumvention scheme every candidate to whom the donor
+contributes, but rather could simply direct recipients to transfer the donations
+to their party.
+
+    [*34]  Nevertheless, appellants dispute that the $ 48,600 aggregate limit is
+supported by an anti-circumvention interest, alleging that "[Buckley] did not
+suggest a mechanism for how an unearmarked conduit-contribution might pass from
+an individual, through a candidate committee, to another intended, particular
+candidate.  [**49]  " RNC Br. 54. But appellants are incorrect. Buckley stated
+broadly that the aggregate limit was necessary to avert circumvention schemes
+involving "unearmarked contributions to political committees likely to
+contribute to [a] candidate. . . ." 424 U.S. at 38 (emphasis added). The Court
+did not suggest that candidate committees were to be exempted from the category
+of "political committees" that could be used to circumvent the base limit, and
+appellants do not even attempt to provide any rationale for such an exemption.
+
+   Appellants also fail to acknowledge that Buckley can only be understood as
+upholding the challenged aggregate limit as applied to contributions to
+candidate committees. The $ 25,000 aggregate limit applied to contributions to
+party committees, PACs, and candidate committees and was upheld on its face by
+Buckley. If applying an aggregate limit to candidate contributions was
+unconstitutional, then the $ 25,000 limit would have been fatally overbroad.
+See, e.g., RNC Br. 52 (arguing that if the $ 74,600 limit were invalidated as
+applied to federal party committees, the entire limit would be facially
+overbroad). At the least, Congress [**50]  -- or a court -- would have to devise
+a narrower measure exempting contributions to candidate  [*35]  committees from
+the limit. The Buckley Court could not have logically sustained the $ 25,000
+limit without finding that it was constitutional to impose an aggregate cap on
+contributions to candidates.
+
+   Likewise unavailing is the argument that conduit schemes involving candidate
+committees cannot be corruptive, because no "'huge' contribution could be given
+to a candidate committee, so no 'massive' conduit-contribution could be
+channeled through one." RNC Br. 55. To be sure, individuals may only contribute
+$ 5,200 in an election cycle to a particular candidate, and candidate committees
+can only transfer $ 4,000 to another candidate committee per cycle. But
+appellants misunderstand the nature of the circumvention scheme. The danger is
+not that a donor will attempt to funnel a single large contribution through a
+candidate committee to her favored candidate, but rather that she will
+contribute many limited contributions to many candidate committees that will
+pass on these funds to her favored candidates. By blocking donors from routing
+hundreds of contributions to their [**51]  preferred candidates through
+candidate committees, the aggregate limits are a crucial guard against political
+corruption.
+
+    [*36]  B. The Aggregate Limits Directly Serve the Governmental Interest in
+Preventing Quid Pro Quo Corruption and the Appearance of Corruption.
+
+   Although Buckley's discussion of the $ 25,000 aggregate limit focused
+primarily on its anti-circumvention purpose, the current aggregate limits also
+directly advance the goal of preventing actual and apparent corruption. As
+Buckley acknowledged, the government may legitimately prohibit not only quid pro
+quo corruption, but also practices that give rise to an appearance of such
+corruption. A single donor giving multi-million dollar sums to the candidates
+and committees of one party inarguably creates at least the appearance of
+impropriety.
+
+   Later cases have made the anti-corruption goals of the aggregate limits even
+more explicit. In CalMed, this Court explained that Buckley had upheld both the
+base limits on contributions to candidates and the $ 25,000 aggregate limit
+because "such limitations served the important governmental interests in
+preventing the corruption or appearance of corruption [**52]  of the political
+process that might result if such contributions were not restrained." 453 U.S.
+at 194-95 & n.15 (emphasis added).
+
+   Most significantly, the Court in McConnell subsequently explained how large
+"soft money" contributions to federal and state party committees --
+contributions that are tantamount to the million-dollar sums in hard money that
+appellants propose here -- create a  [*37]  threat of actual and apparent
+corruption. Eliminating the aggregate limits would quickly result in a system of
+massive contributions to parties that would be indistinguishable from the system
+of "soft money" that was shut down by BCRA's enactment in 2002. See 540 U.S. at
+144-45.
+
+   Appellants counter that "the anti-corruption interest is not directly
+implicated with contributions to national party committees," RNC Br. 25, but
+this theory was rejected in McConnell. There, this Court recognized that
+contributions to a candidate's party could create a sense of obligation no less
+than a direct contribution to the candidate himself, 540 U.S. at 144-45, and
+noted that "[t]his is particularly true of contributions to national parties,
+with [**53]  which federal candidates and officeholders enjoy a special
+relationship and unity of interest." Id. at 145. Because of this "close
+affiliation," the national parties are placed "in a unique position, 'whether
+they like it or not,' to serve 'as agents for spending on behalf of those who
+seek to produce obligated officeholders.'" Id. (quoting Colorado II, 533 U.S. at
+452). After surveying the voluminous record compiled by Congress in support of
+the soft money limits, the McConnell Court concluded that "there is substantial
+evidence to support Congress' determination that large soft-money contributions
+to national political parties give rise to corruption and the appearance of
+corruption." Id. at 154.
+
+   McConnell also catalogued the dangers posed by the widespread practice of
+officeholders soliciting soft money for other candidates and their party's
+federal  [*38]  and state committees. See 540 U.S. at 181-84; see also id. at
+308 (Kennedy, J., concurring). The majority noted that "[l]arge soft-money
+donations at a candidate's or officeholder's behest give rise to all of the same
+corruption concerns posed by contributions [**54]  made directly to the
+candidate or officeholder." Id. at 182. Justice Kennedy further expounded in his
+concurrence:
+
+
+     The making of a solicited gift is a quid both to the recipient of the
+     money and to the one who solicits the payment (by granting his
+     request). Rules governing candidates' or officeholders' solicitation
+     of contributions are, therefore, regulations governing their receipt
+     of quids. This regulation fits under Buckley's anticorruption
+     rationale.
+
+
+Id. at 308 (Kennedy, J., concurring) (emphasis added).
+
+   If the aggregate limits were to be invalidated, the soft money abuses deemed
+corruptive in McConnell would quickly resurface. Invalidating the aggregate
+limits would allow a single individual to donate over $ 1 million to a political
+party's federal and state party committees in a two-year election cycle. The
+federal and state party committees could transfer such contributions internally
+without restriction, and aggregate the contributions in the account of one
+recipient committee. There would be no functional difference between the massive
+sum of hard money contributions that appellants wish to legalize here and the
+soft money contributions [**55]  outlawed by BCRA.
+
+    [*39]  Further, as discussed in Section I.C. supra, officeholders gain power
+and influence on the Hill and in their parties by soliciting contributions for
+other candidates and their parties. In the absence of the aggregate limits,
+officeholders and candidates have every incentive to make solicitations for huge
+aggregate amounts -- regardless of whether the money was ultimately used to
+support their own campaign, or the campaigns of others. Just as this Court found
+that solicitations by candidates for huge soft money contributions pose a danger
+of corruption or the appearance of corruption, so too would candidates'
+solicitation of donors for possibly millions of dollars in hard money
+contributions give rise to corruption and the appearance of corruption.
+
+   Contrary to appellants' suggestion, Citizens United v. FEC, 558 U.S. 310
+(2010), did not question McConnell's conception of corruption in connection to
+the soft money restrictions of Title I of BCRA. RNC Br. 37. Citizens United
+dealt with the entirely distinct question of whether Congress may regulate
+independent expenditures by corporations. See id. at 359. And [**56]  this Court
+recently reaffirmed McConnell's holding on Title I, when, after Citizens United,
+it summarily affirmed a three-judge district court decision that sustained
+BCRA's restrictions on party soft money. RNC v. FEC, 698 F. Supp. 2d 150
+(D.D.C.), aff'd, 130 S. Ct. 3544 (2010) (mem.).
+
+   Moreover, although Buckley did not specifically consider limits on
+contributions to political parties, its analysis of corruption supports their
+constitutionality  [*40]  and is consistent with McConnell. The Buckley Court
+emphasized that "[o]f almost equal concern as the danger of actual quid pro quo
+arrangements is the impact of the appearance of corruption stemming from public
+awareness of the opportunities for abuse inherent in a regime of large
+individual financial contributions." 424 U.S. at 27 (emphasis added). See also
+Citizens United, 558 U.S. at 357 ("The Buckley Court . . . sustained limits on
+direct contributions in order to ensure against the reality or appearance of
+corruption.") (emphasis added). Buckley made clear that the government had a
+legitimate interest not only in outlawing [**57]  "the most blatant and specific
+attempts of those with money to influence governmental action" but also in
+preserving public confidence in government by prohibiting practices that created
+an appearance of corruption. 424 U.S. at 27-28. Appellants all but ignore this
+fundamental aspect of the concept of corruption articulated in Buckley.
+Elimination of the aggregate limits would permit a single donor to contribute
+over $ 1 million to her favored party and over $ 2 million to that party's
+candidates in an election cycle. Appellants cannot credibly deny that this
+quantum of giving would not create the appearance that the party's candidates
+and officeholders were indebted to such donor -- and unsurprisingly, appellants
+do not even attempt such a denial.
+
+   Appellants also advance a more targeted attack on the $ 74,600 aggregate
+limit, challenging it as applied to only the national party committees. See RNC
+Br. 24. Even this fallback position, however, would  [*41]  allow a single
+individual to donate, and an officeholder to solicit, a total of $ 194,400 to
+the three national committees of a major political party in a two-year election
+cycle. And in addition to this [**58]  $ 194,800, appellants propose that a
+donor also be permitted to meet his $ 48,600 sub-limit for contributions to
+state party committees and PACs, see RNC Br. 52-53, bringing the grand total of
+potential contributions to party committees to $ 243,000. n24 Although appellant
+McCutcheon claims that Buckley's approval of the aggregate limit was motivated
+only by the fear of "unlimited contributions" to political parties, McCutcheon
+Br. 41, the text of the decision provides no support for this proposition.
+Compare 424 U.S. at 38 (expressing concern about "huge contributions" funneled
+through political parties to candidates).  [*42]  Further, Supreme Court
+precedent on this subject indicates that sums as small as $ 20,000 can be
+problematic when routed to candidates in addition to the base limit amount. See,
+e.g., Colorado II, 533 U.S. at 457-58 (noting that donors could circumvent the
+base limits by giving, in addition to the base limits, $ 20,000 each year to a
+national party committee supporting the candidate). Clearly a contribution of $
+243,000 to a single party in an election cycle exceeds this standard.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n24 Appellants' final attempt to deny the corruptive potential of a $ 243,000
+contribution to a political party is to assert that the Court cannot take into
+account the ability of party committees to make unlimited internal transfers
+when assessing the need for aggregate limits. According to appellants, Congress
+passed the intra-party transfer provision because it believed that there was "no
+conduit-contribution risk in transfers between federal committees of the same
+political party." RNC Br. 20. But appellants' theory about Congress' intent
+cannot be correct. The $ 25,000 aggregate limit was enacted as part of the 1974
+amendments to FECA. The intra-party transfer provision was only first enacted in
+1976. See supra Section II.A.1.a. Congress thus passed the transfer provision
+after the enactment of the aggregate limit and in reliance on its existence.
+Congress could not have considered the corruptive risk that unlimited
+intra-party transfers might pose in the absence of an aggregate limit.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**59]
+
+   Eliminating the aggregate limits would thus herald the return to a
+pre-McConnell era when enormous contributions to parties and candidates were
+freely solicited and often given by donors explicitly seeking favors from
+elected officials.
+
+[*43]  CONCLUSION
+
+   For the foregoing reasons, this Court should affirm the judgment of the
+district court.
+
+   Respectfully submitted,
+
+   TREVOR POTTER, Counsel of Record, J. GERALD HEBERT, TARA MALLOY, PAUL S.
+RYAN, MEGAN MCALLEN, THE CAMPAIGN LEGAL CENTER, 215 E Street, N.E., Washington,
+D.C. 20002, (202) 736-2200, tpotter@campaignlegalcenter.org
+
+Counsel for Amici Curiae
+
+   Dated: July 25, 2013
+
+
+   [SEE APPENDIX A IN ORIGINAL]

@@ -1,0 +1,916 @@
+﻿
+3 of 24 DOCUMENTS
+
+ Go to Supreme Court Opinion       Go To Oral Argument Transcript
+
+View Original Source Image of This Document
+
+           SONNY PERDUE, Governor of Georgia, et al., Petitioners, v.
+                KENNY A., By His Next Friend Linda Winn, et al.,
+                                  Respondents.
+
+                                   No. 08-970
+
+                       SUPREME COURT OF THE UNITED STATES
+
+            2008 U.S. Briefs 970; 2009 U.S. S. Ct. Briefs LEXIS 807
+
+                                August 28, 2009
+
+          On Writ of Certiorari to the United States Court of Appeals
+                           for the Eleventh Circuit.
+
+                                  Amicus Brief
+
+COUNSEL:  [**1]  JOSHUA CIVIN, KRISTEN CLARKE, NAACP LEGAL DEFENSE & EDUCATIONAL
+FUND, INC., 1444 I Street, NW, 10th Fl., Washington, DC 20005, (202) 682-1300.
+
+JOHN PAYTON, Director-Counsel, DEBO P. ADEGBILE, Counsel of Record, MATTHEW
+COLANGELO, KIMBERLY LIU, NAACP LEGAL DEFENSE & EDUCATIONAL FUND, INC., 99 Hudson
+Street, 16th Fl., New York, NY 10013, (212) 965-2200.
+
+[*i]  QUESTION PRESENTED
+
+   Can an attorney's fees award under a federal fee-shifting statute ever be
+enhanced based on quality of performance and results obtained?  [*ii]
+
+INTERESTS:  [*1]  INTEREST OF AMICUS CURIAE n1
+
+
+n1 Pursuant to Rule 37.6, counsel for the amicus states that no counsel for a
+party authored this brief in whole or in part, and that no person other than the
+amicus, its members, or its counsel made a monetary contribution to the
+preparation or submission of this brief. Letters of consent from the parties are
+lodged with the Clerk of the Court pursuant to Rule 37.3.
+
+   The NAACP Legal Defense & Educational Fund, Inc. (LDF) is a non-profit legal
+organization that has assisted African Americans and other people of color in
+securing their civil and constitutional rights for more than six decades. LDF
+litigated key cases that developed the legal framework for attorney's fees
+awards in civil rights cases, and that were incorporated into the legislative
+history of the Civil Rights Attorney's Fees Awards Act of 1976, Pub. L. No.
+94-559, 90 Stat. 2641 (codified as amended at 42 U.S.C. § 1988). See, e.g.,
+Newman v. Piggie Park Enters., Inc., 390 U.S. 400 (1968); Johnson v. Georgia
+Highway Express, Inc., 488 F.2d 714 (5th Cir. 1974); Swann v.
+Charlotte-Mecklenburg Bd. of Educ., 66 F.R.D. 483 (W.D.N.C. 1975); see also
+Awarding of Attorneys' Fees: Hearings Before the Subcomm. on Courts, Civil
+Liberties and the Admin. of Justice of the H. Comm. on the Judiciary, 94th Cong.
+54 (1975) (statement of Rep. Drinan) (citing LDF's reliance on the availability
+of attorney's fees awards to litigate civil rights cases).
+
+   LDF has also participated as an amicus in cases before this Court
+interpreting the scope of reasonable attorney's fees provisions in various
+federal statutes. See, e.g., City of Burlington v. Dague, 505 U.S. 557 (1992);
+Blum v. Stenson, 465 U.S. 886 (1984); Hensley v. Eckerhart, 461 U.S. 424 (1983).
+
+TITLE: BRIEF OF AMICUS CURIAE NAACP LEGAL DEFENSE & EDUCATIONAL FUND, INC. IN
+SUPPORT OF RESPONDENTS
+
+[*2]  SUMMARY OF ARGUMENT
+
+   Effective civil rights laws are vital to the health of our democracy. But
+even the best statute is essentially a dead letter without vigorous enforcement.
+Congress was well aware of the dangers of underenforcement when it passed the
+Civil Rights Attorney's Fees Awards Act of 1976, Pub. L. No. 94-559, 90 Stat.
+2641 (codified as amended at 42 U.S.C. § 1988) [**9]  [hereinafter Section
+1988]. It was Congress's reasoned determination that robust attorney's fees
+awards, including enhancements for extraordinary performance and results, would
+provide a muchneeded catalyst to encourage citizens to pursue the types of
+litigation that most boldly defend and enhance civil rights. This case presents
+no occasion for the Court to displace Congress's well-considered judgment.
+
+   Section 1988 was Congress's swift and decisive response to a decision of this
+Court that prohibited attorney's fees awards absent express statutory
+authorization. See Alyeska Pipeline Serv. Co. v. Wilderness Soc'y, 421 U.S. 240
+(1975). A little over a year after Alyeska was decided, Congress overcame a
+Senate filibuster and enacted Section 1988, which authorizes "a reasonable
+attorney's fee" for prevailing litigants under an array of civil rights laws,
+including 42 U.S.C. §§ 1981, 1982, and 1983.
+
+   This brief supplements Respondents' analysis of Section 1988's legislative
+history in three distinctive ways. First, Section 1988 does more than simply
+provide access to the courts for plaintiffs seeking redress for individual
+wrongs. Congress [**10]  also sought to promote vigorous and effective civil
+rights enforcement.  [*3]  To achieve this broad-reaching objective, Congress
+adopted an expansive view of what constitutes a reasonable attorney's fee. In no
+way did Congress intend to restrict fees awards to the "lodestar" calculation
+that results from multiplying the number of hours an attorney worked by a
+reasonable rate for his or her services. Rather, Congress gave clear direction
+that enhancements above the lodestar are permitted in exceptional circumstances
+for extraordinary performance and results that forcefully advance civil rights.
+
+   Second, the legislative history emphasizes the symmetry between Section 1988
+and Congress's simultaneous enactment of a statute that filled another gap
+created by Alyeska. The Hart-Scott-Rodino Antitrust Improvements Act of 1976,
+Pub. L. No. 94-435, § 302(3), 90 Stat. 1396 (codified as amended at 15 U.S.C. §
+26) [hereinafter Antitrust Improvements Act], provided for reasonable attorney's
+fees in certain antitrust cases. Congress determined that courts should have the
+same power to grant enhancements to promote vigorous civil rights enforcement
+[**11]  and to encourage the efficacious implementation of antitrust policy.
+
+   Third, in 1976, when Congress was considering Section 1988, it rejected an
+amendment that would have done exactly what Petitioners urge. It is an
+established principle of statutory construction that Congress does not intend
+sub silentio to enact statutory language that it has earlier discarded.
+Moreover, subsequent Congresses have confirmed the importance of enhancements by
+repeatedly rebuffing legislation to curtail or ban them.
+
+    [*4]  After highlighting these distinctive features of the legislative
+history, this brief surveys cases decided after the enactment of Section 1988.
+Contrary to the assertions of Petitioners and their amici, courts have proved
+adept at crafting workable criteria for determining the rare circumstances in
+which enhancements for extraordinary performance and results are warranted to
+promote vigorous enforcement of civil rights. Courts have found it reasonable to
+enhance fees in cases that set important precedents or otherwise pave the way
+for future federal and private enforcement, recognizing that these cases require
+the greatest degree of ingenuity, and thus the number of hours [**12]  an
+attorney works are less likely to reflect the true value of his or her services.
+In addition, courts have granted enhancements in cases that do not merely remedy
+violations of an individual's rights, but provide broad-reaching relief that
+roots out entrenched discrimination or eradicates systemic inequities.
+
+ARGUMENT
+
+I. Section 1988's legislative history demonstrates that Congress intended to
+permit enhancements for extraordinary performance and results that vindicate
+civil rights.
+
+   This Court has repeatedly relied upon legislative history in the
+interpretation of statutory terms that are not clear on their face. The
+"reasonable attorney's fee" language in Section 1988 is no exception. See, e.g.,
+Blum v. Stenson, 465 U.S. 886, 893-97 (1984). This section highlights three
+distinctive aspects of Section 1988's legislative history that are  [*5]  not
+addressed in Respondents' brief. Close review of the legislative history
+confirms that the availability of enhancements was part of a deliberate
+congressional determination that civil rights enforcement should be vigorous,
+incentivized, and compensated on terms no less favorable than in other
+substantive [**13]  areas where enhancements have long been granted to further
+key national priorities.
+
+A. It was Congress's well-considered judgment that Section 1988 should provide
+significant incentives for vigorous and effective civil rights enforcement.
+
+   1. While Section 1988 ultimately passed by broad margins in both the House
+and Senate, see 122 Cong. Rec. 33315, 35130 (1976), the process preceding the
+vote reveals significant deliberation and intense debate--an illustration of
+Congress's carefully considered judgment. Indeed, proponents had to devote
+extraordinary resources to bring the legislation to a vote. The Senate approved
+Section 1988 after a cloture vote ended an unusually hard-fought filibuster. Id.
+at 32172. In the House, proponents utilized a procedural maneuver reserved for
+"emergency" legislation to ensure prompt consideration. Id. at 35118, 35119.
+
+   Congress thought these emergency measures were necessary because this Court's
+decision in Alyeska "dealt a serious blow to the effective enforcement of our
+civil rights laws." 122 Cong. Rec. 31471 (1976) (statement of Sen. Mathias).
+Fresh from the battles of the initial decades of modern civil rights
+enforcement,  [**14]  Congress intended its authorization of reasonable
+attorney's fees awards to do more than  [*6]  simply provide access to the
+courts for those seeking redress for individual wrongs. It provided for robust
+attorney's fees awards as a catalyst for citizens to pursue "vigorous
+enforcement" of civil rights laws. S. Rep. No. 94-1011, at 4 (1976), as
+reprinted in 1976 U.S.C.C.A.N. 5908, 5911 [hereinafter Senate Report]; H.R. Rep.
+No. 94-1558, at 2-3 (1976) [hereinafter House Report].
+
+   Senator Tunney, the Senate bill's sponsor, reminded his colleagues that "[w]e
+cannot hope for vigorous enforcement of our civil rights laws unless we . . .
+remove the burden from the shoulders of the plaintiff seeking to vindicate the
+public right." 122 Cong. Rec. 33314 (1976) (emphasis added) (internal quotation
+marks omitted); see also id. at 31472 (statement of Sen. Kennedy) (Section 1988
+will "assure all the citizens of this Nation . . . that Congress firmly intends
+that all our civil rights laws be vigorously enforced." (emphasis added)). n2 A
+key House proponent aptly summed up Section 1988's broadreaching objectives: "A
+vote for the bill is a vote for effective civil rights laws.  [**15]  " Id. at
+35129 (statement of Rep. Seiberling).
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n2 References to the importance of "vigorous enforcement" also feature
+prominently in subcommittee hearings. See, e.g., Awarding of Attorneys' Fees:
+Hearings Before the Subcomm. on Courts, Civil Liberties and the Admin. of
+Justice of the H. Comm. on the Judiciary, 94th Cong. 85 (1975) (statement of
+Armand Derfner, Lawyers' Committee for Civil Rights); id. at 122 (statement of
+Charles R. Halpern, Executive Director, Council for Public Interest Law); id. at
+285 (recommendation of American Bar Association).
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   2. To achieve these far-reaching objectives, Congress repeatedly recognized
+the multi-factor test set  [*7]  forth in a pre-Alyeska employment
+discrimination case litigated by amicus LDF-- Johnson v. Georgia Highway
+Express, Inc., 488 F.2d 714 (5th Cir. 1974)--as establishing "[t]he appropriate
+standards" for determining reasonable attorney's fees awards. Senate Report 6;
+see also House Report 8. The Senate Judiciary Committee [**16]  further
+explained that the Johnson factors "are correctly applied" in three cases:
+Stanford Daily v. Zurcher, 64 F.R.D. 680 (N.D. Cal. 1974); Davis v. County of
+Los Angeles, No. 73-63- WPG, 1974 WL 180 (C.D. Cal. June 5, 1974); and Swann v.
+Charlotte-Mecklenburg Board of Education, 66 F.R.D. 483 (W.D.N.C. 1975). See
+Senate Report 6.
+
+   Congress deliberately chose this trilogy to emphasize its commitment to
+vigorous and effective civil rights enforcement. As detailed in Part II.A.3
+infra, all three cases substantially advanced the state of civil rights law.
+Davis and Stanford Daily expressly granted enhancements for extraordinary
+performance and results, and the fees awards in all three cases were among the
+most robust of the pre-Alyeska era. See Legal Fees: Hearings Before the Subcomm.
+on Representation of Citizen Interests of the S. Comm. on the Judiciary, 93rd
+Cong. 862-1107 (1974) (collecting cases). Because these cases are particularly
+instructive with respect to the question presented, they merit the same close
+attention that the Court has devoted to them in prior interpretations of Section
+1988. See,  [**17]   e.g., Blanchard v. Bergeron, 489 U.S. 87, 92-93 (1989);
+City of Riverside v. Rivera, 477 U.S. 561, 576 (1986) (plurality opinion); Blum,
+465 U.S. at 893-95; Hensley v. Eckerhart, 461 U.S. 424, 430-32 (1983).
+
+    [*8]  The legislative history thus refutes Petitioners' assertions that
+enhancements are unnecessary to achieve the "the clear purpose" of Section 1988.
+Pet. Br. 19-20. Their view that Section 1988 simply ensures that aggrieved
+individuals are able to attract the services of "competent counsel" is too
+narrow. Id. at 20. While Congress sought to eliminate unfairness to individuals
+deprived of their rights who do not have resources to hire an attorney, it also
+endorsed "the broadest and most effective remedies available to achieve the
+goals of our civil rights laws." Senate Report 3. Enhanced fees awards for
+extraordinary representation and results further Congress's broad-reaching
+objectives by encouraging attorneys to seek cases that will not simply apply
+well-settled precedents to remedy garden-variety statutory or constitutional
+violations, but that will also advance the state of civil rights law, dismantle
+[**18]  entrenched institutional discrimination, or eradicate other systemic
+injustices.
+
+B. Congress intended for the same standards to govern civil rights fees awards
+as apply in antitrust cases, where courts have long awarded enhancements for
+extraordinary performance and results.
+
+   Enhancements for extraordinary performance and results are also consistent
+with Congress's intent that "the amount of fees awarded under [Section 1988] be
+governed by the same standards which prevail in other types of equally complex
+Federal litigation, such as antitrust cases." Senate Report 6. Respondents aptly
+demonstrate that, during the period preceding enactment of Section 1988, courts
+endorsed enhancements for extroardinary performance  [*9]  and results in
+antitrust and securities cases, especially those with substantial public
+benefits. See Respondents' Br. 27-31 & n.3 (collecting cases).
+
+   For this reason, it is particularly significant that, on the day before
+Section 1988 passed the House, President Ford signed into law the Antitrust
+Improvements Act. Like Section 1988, the Antitrust Improvements Act filled a
+void created by Alyeska. As pertinent here, it authorized the award of
+reasonable [**19]  attorney's fees for antitrust claims for injunctive relief.
+n3 H.R. Rep. No. 94-499(I), at 18-20 (1976), as reprinted in 1976 U.S.C.C.A.N.
+2572, 2588-90. As with Section 1988, Congress concluded that reasonable
+attorney's fees in antitrust cases seeking injunctive relief were "an effective
+enforcement tool" to advance an important congressional policy objective. Id. at
+2589.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n3 Congress had previously authorized the award of reasonable attorney's fees
+for damages claims in antitrust cases. Clayton Antitrust Act, ch. 323, 38 Stat.
+731 (1914) (codified as amended at 15 U.S.C. § 15).
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   In the House floor debates regarding Section 1988, Representative Seiberling
+expressly noted parallels to the Antitrust Improvements Act and observed that
+"certainly the laws protecting people's civil and constitutional rights are at
+least as important as are antitrust laws." 122 Cong. Rec. 35118 (1976).
+
+   Section 1988's legislative history also contains express reference to Arenson
+v. Board of Trade, 372 F. Supp. 1349 (N.D. Ill. 1974), [**20]  a significant
+pre-Alyeska antitrust case that awarded an enhancement for extraordinary
+performance and results. See  [*10]  Awarding of Attorneys' Fees: Hearings
+Before the Subcomm. on Courts, Civil Liberties and the Admin. of Justice of the
+H. Comm. on the Judiciary, 94th Cong. 421 (1975) (reprinting law review article
+discussing Arenson); Respondent's Br. 27 (citing Arenson).
+
+   The enhancement in Arenson was explicitly geared to ensuring vigorous
+enforcement of key congressional policy objectives in the antitrust context. The
+district court recognized "the social effect of th[e] litigation," 372 F. Supp.
+at 1352, noting that: "[a]n entire industry has been restructured" as a result
+of the suit, id.; "[t]his achievement could well be of great instructive
+precedent in subsequent litigation," id. at 1358; and the litigation was "fought
+out at a legal frontier where no lawyer knew all the answers," with plaintiffs'
+attorneys "blazing new legal trails," id. at 1352-53. The court further observed
+that "[t]he value of a lawyer's services is not merely measured by time or
+labor" because "[t]he practice of [**21]  law is an art in which success depends
+as much as in any other art on the application of imagination--and sometimes
+inspiration--to the subject matter." Id. at 1356.
+
+   The enactment of the Antitrust Improvements Act nearly simultaneously with
+Section 1988 underscores Congress's considered judgment that Section 1988 should
+permit courts to award adjustments above the lodestar for vigorous enforcement
+of federal civil rights laws using the same standards applied in other complex
+federal litigation, particularly antitrust cases. It would be wholly
+inconsistent with Congress's intent for courts to remain free to grant
+enhancements for successful antitrust litigation but  [*11]  not for vigorous
+civil rights enforcement, which Congress has long considered an equally critical
+national priority.
+
+C. Congress has repeatedly rejected proposals that would have expressly
+prohibited enhancements.
+
+   1. In 1976, as Congress was debating Section 1988, it considered and rejected
+alternative language that would have made explicit the factors for setting a
+fees award and would have precluded enhancements for extraordinary performance
+and results. 122 Cong. Rec. 31477 (Amendment [**22]  470 to S. 2278).
+Specifically, an amendment from Senator Helms proposed that an attorney's fees
+award be "based upon the actual time expended by [an] attorney or agent and his
+or her staff in advising or representing a party (at prevailing rates for such
+services, including any reasonable risk factor component)." Id. at 31477-78.
+
+   After careful consideration, Congress rejected the Helms amendment. Id. at
+31480-81. Instead, Congress adopted the "reasonable attorney's fee" language
+that it had previously used to ensure vigorous and effective enforcement of
+other civil rights statutes, including Titles II and VII of the Civil Rights Act
+of 1964. See 42 U.S.C. §§ 2000a-3(b), 2000e-5(k); see also Christiansburg
+Garment Co. v. EEOC, 434 U.S. 412, 422 (1978) (interpreting the attorney's fees
+provision of Title VII so as not to "undercut the efforts of Congress to promote
+the vigorous enforcement" of that key employment antidiscrimination statute).
+The rejection of the Helms amendment is significant because, as this Court has
+held, "[f]ew  [*12]  principles of statutory construction are more compelling
+[**23]  than the proposition that Congress does not intend sub silentio to enact
+statutory language that it has earlier discarded in favor of other language."
+INS v. Cardoza-Fonseca, 480 U.S. 421, 442-43 (1987) (quoting Nachman Corp. v.
+Pension Benefit Guar. Corp., 446 U.S. 359, 392-93 (1980) (Stewart, J.,
+dissenting)).
+
+   Petitioners' claim that "the plain statutory language" does not "permit[] any
+type of enhancement to an attorney's fee award," Pet. Br. 13, is therefore
+incorrect. Section 1988 adopted the "reasonable attorney's fee" language that
+Congress had long used in prior statutes authorizing fee-shifting for civil
+rights enforcement, because that language had already been interpreted in a
+manner that Congress sought to affirm. See Senate Report 4 ("It is intended that
+the standards for awarding fees be generally the same as under the fee
+provisions of the 1964 Civil Rights Act."); Blum, 465 U.S. at 894 n.10
+("Congress was legislating in light of experience when it enacted the 1976 fee
+statute."). Indeed, Congress deliberately chose to reinstate the courtcreated
+regime employed prior to Alyeska, which permitted courts [**24]  to enhance fee
+awards for extraordinary performance and results in appropriate circumstances.
+See Crawford Fitting Co. v. J.T. Gibbons, Inc., 482 U.S. 437, 442 (1987) ("It is
+therefore clear that when Congress meant to set a limit on fees, it knew how to
+do so.").
+
+   2. Post-enactment legislative activity confirms that Congress did not intend
+for Section 1988 to preclude enhancements for extraordinary performance and
+results. Congress has adopted several amendments  [*13]  to expand and revise
+Section 1988's coverage. See, e.g., Federal Courts Improvement Act of 1996, Pub.
+L. No. 104-317, § 309(b), 110 Stat. 3853; Religious Freedom Restoration Act of
+1993, Pub. L. No. 103-141, § 4(a), 107 Stat. 1489. Yet Congress has never acted
+to restrict enhancements for extraordinary performance and results, even though
+courts, as discussed in Part II.A infra, have granted such enhancements during
+the decades since Section 1988 was enacted. See Herman & MacLean v. Huddleston,
+459 U.S. 375, 385-86 (1983) (holding that Congress can be assumed to have
+endorsed--by failing to overturn--a "well-established judicial interpretation").
+[**25]
+
+   Moreover, Congress has repeatedly rejected proposals to proscribe
+enhancements to attorney's fees awards. For instance, as Respondents point out,
+the Senate considered but opted not to act on legislation introduced in 1984
+that would have amended Section 1988 to prohibit enhancements. See Legal Fees
+Equity Act, S. 2802, 98th Cong. § 6(a)(2) (1984); The Legal Fee Equity Act:
+Hearing on S. 2802 Before the Subcomm. on the Constitution of the S. Comm. on
+the Judiciary, 98th Cong. 4-5 (1985); Respondent's Br. 45-46.
+
+   This 1984 effort to ban enhancements is only the tip of the iceberg. From
+1982 through 1991, similar proposals were repeatedly introduced in the Senate,
+and at least two subcommittee hearings were held, but none of these bills was
+ever even voted out of committee. See S. 585, 97th Cong. § 722A(e) (1982); Legal
+Fees Equity Act, S. 1580, 99th Cong. § 6(a)(2) (1985); Legal Fees Equity Act, S.
+1253, 100th Cong. § 6(a)(2) (1987); Legal Fees Equity Act, S. 90, 101st Cong. §
+6(a)(2)  [*14]  (1989); Legal Fees Equity Act, S. 133, 102nd Cong. § 6(a)(2)
+(1991); 131 Cong. Rec. 22346-67 (1985); 133 Cong. Rec. 13556-63 (1987); see also
+Attorney's Fees Awards: Hearings  [**26]   on S. 585 (and on Amendments to Be
+Proposed by Senator Orrin G. Hatch) Before the Subcomm. on the Constitution of
+the S. Comm. on the Judiciary, 97th Cong. 8 (1982); Legal Fees Equity Act:
+Hearings on S. 1580, S. 1794, and S. 1795 Before the Subcomm. on the
+Constitution of the S. Comm. on the Judiciary, 99th Cong. 2 (1986). n4
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n4 In other contexts, Congress has resisted aggressive lobbying by state and
+local officials to limit enhancements. See, e.g., Municipal Liability Under 42
+U.S.C. 1983: Hearings on S. 584, S. 585, and S. 990 Before the Subcomm. on the
+Constitution of the S. Comm. on the Judiciary, 97th Cong. 550 (1981) (report of
+National Association of Attorneys General) (proposing that "amounts awarded as
+attorneys' fees should be limited by Congress to a reasonable hourly rate" and
+not "awarded based on some 'benefit to the class' or private attorney general
+theory"); id. at 104 (prepared statement on behalf of the National Institute of
+Municipal Law Officers) (proposing a ban on enhancements).
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**27]
+
+   Opponents of enhancements tried a different tactic in 1991. They proposed an
+amendment to the Civil Rights Act of 1991 that would have limited attorneys'
+fees to 20% of monetary awards. See 137 Cong. Rec. 28871-80 (1991). This
+approach also failed.
+
+   By contrast, Congress has explicitly proscribed enhancements in other
+contexts. In numerous statutory schemes, Congress has capped fees awards. n5
+[*15]  Moreover, a provision enacted by Congress in 1986 to govern attorney's
+fees for claims brought under the Individuals with Disabilities Education Act
+explicitly states that "[n]o bonus or multiplier may be used in calculating the
+fees awarded." 20 U.S.C. § 1415(i)(3)(C). Legislative history reveals that this
+statutory language was intended to adopt a more restrictive approach than
+permitted under Section 1988. See H.R. Rep. No. 99-687, at 6 (1986) (Conf.
+Rep.), as reprinted in 1986 U.S.C.C.A.N. 1807, 1808; Respondents' Br. 18, 45.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n5 See, e.g., 28 U.S.C. § 2412(d)(1)(A) and (2)(A) (capping fees under the
+Equal Access to Justice Act at $ 125 per hour "unless the court determines that
+an increase in the cost of living or a special factor, such as the limited
+availability of qualified attorneys for the proceedings involved, justifies a
+higher fee"); 28 U.S.C. § 2678 (fees under the Federal Tort Claims Act limited
+to 20% of an administrative settlement and 25% for fees in cases that are
+litigated); 42 U.S.C. § 406(b)(1) (fees under the Social Security Act for
+past-due benefits capped at the lesser of 25% of the award or $ 4,000); 22
+U.S.C. § 277d-21 (fees under the American-Mexican Chamizal Convention Act
+limited to 10% of the award); 48 U.S.C. § 1424c(f) (fees in claims regarding
+land under the Guam Organic Act capped at 5% of the award); 50 U.S.C. App. §
+1985 (fees under the Japanese-American Evacuation Claims Act limited to 10% of
+the award).
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**28]
+
+   Congress's repeated consideration and rejection of efforts to eliminate
+enhancements during the thirty-two years that Section 1988 has been in force
+confirms that Congress intended to authorize these incentives to encourage
+vigorous enforcement, and that it has never chosen to abandon this approach.
+
+ [*16]  II. Federal courts have developed workable criteria that reserve
+enhancements for litigation that substantially furthers Congress's objective of
+vigorous civil rights enforcement.
+
+   Cases that obtain far-reaching results or break new ground for civil rights
+further the purposes of Section 1988 described in Part I.A supra by making a
+significant contribution to the vigorous enforcement scheme envisioned by
+Congress. Enhancements for extraordinary performance and results recognize that
+if private attorneys do not have appropriate incentives to bring such cases,
+civil rights laws may be under-enforced. Contrary to the arguments of
+Petitioners and the United States, see Pet. Br. 50-51; U.S. Br. 22, courts have
+developed manageable standards to distinguish the exceptional cases warranting
+enhancements for extraordinary performance and results that further Congress's
+[**29]  broad-reaching goals. n6
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n6 Some of the cases discussed below were decided prior to this Court's
+decisions proscribing enhancements for contingency and certain other factors.
+See, e.g., City of Burlington v. Dague, 505 U.S. 557 (1992). Nevertheless, the
+reasoning in these cases supporting enhancements awarded for extraordinary
+performance and results is still valid because the courts considered these
+factors independently.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+A. Courts have properly limited enhancements to those cases that establish
+important precedents or achieve broad relief that roots out entrenched
+inequities.
+
+   Courts have developed workable criteria to limit enhancements to the rare and
+exceptional cases  [*17]  where attorneys have achieved results that further the
+purposes of Section 1988 by promoting vigorous civil rights enforcement. See,
+e.g., Hughes v. Repko, 578 F.2d 483, 488-489 (3rd Cir. 1978) ("We emphasize, as
+did the Congress that enacted [Section 1988], that the district court should
+[**30]  evaluate the fee to be awarded in light of the important substantive
+purposes of the Civil Rights Act, 42 U.S.C. § 1982 (1970), upon which plaintiffs
+relied."). Courts have found it reasonable to enhance fees in cases that set
+important civil rights precedents or otherwise pave the way for future effective
+federal and private enforcement; or cases that do not merely remedy an
+individual case of discrimination, but also obtain substantial relief that ends
+discriminatory policies of large institutions or roots out entrenched
+inequities.
+
+   1. When a civil rights lawsuit resolves unsettled legal questions or creates
+a new cause of action, the effect of the decision extends beyond that case
+through the creation of precedent, which furthers the development of the law,
+creates a foundation for future litigation, and increases voluntary compliance.
+See Pamela S. Karlan, Disarming the Private Attorney General, 2003 U. Ill. L.
+Rev. 183, 201 ("A private attorney general whose activities produce precedent is
+thus in some important ways more effective than a private attorney general whose
+activities produce only local change."); Louis Kaplow, Rules  [**31]   Versus
+Standards: An Economic Analysis, 42 Duke L.J. 557, 611-15 (1992) (describing the
+costs to the legal system when judicial interpretation is delayed). When
+attorneys succeed in obtaining such groundbreaking decisions, they have advanced
+Section 1988's goal of vigorous civil rights enforcement.  [*18]  In these
+limited instances, courts have awarded enhancements above the lodestar,
+recognizing that these cases require the greatest degree of ingenuity, and thus
+the hours that an attorney works are less likely to reflect the value of his or
+her services. n7
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n7 Enhancements for precedent-setting results are different from enhancements
+based on novelty or complexity, which this Court criticized in Blum, 465 U.S. at
+898-99, on the ground that such factors increase either the number of hours a
+lawyer must spend on the case or the lawyer's hourly rate and thus are reflected
+in the lodestar. In some cases, the lodestar figure might fully account for
+extraordinary performance and results, but truly precedent-setting cases like
+Geier v. Sundquist, discussed infra, are often not merely the result of
+additional hours or higher fees.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**32]
+
+   For example, the Sixth Circuit found that a successful challenge to
+entrenched segregation in Tennessee's university system was a "rare and
+exceptional" case that could meet the high standard for an enhancement.  Geier
+v. Sundquist, 372 F.3d 784, 796 (6th Cir. 2004). The Geier litigation included
+the first holding by a federal appellate court that there is "an affirmative
+duty to remove all vestiges of state-imposed segregation in institutions of
+public higher education, just as there [is] such an obligation at lower
+educational levels." Id. at 795; see also Geier v. Univ. of Tenn., 597 F.2d
+1056, 1065 (6th Cir. 1979).
+
+   In its 2004 decision regarding attorney's fees for co-counsel who litigated
+Geier with LDF, the Sixth Circuit determined that the district court had failed
+to consider sufficiently whether the results obtained in a particular phase of
+the litigation warranted an enhancement. The Sixth Circuit observed that "[t]he
+[*19]  legal principles advanced by the Geier Plaintiffs were pathbreaking and
+of great social import." Geier, 372 F.3d at 795. The court further emphasized
+the "exceptional [**33]  nature and national significance of this case" insofar
+as it "steered the jurisprudence in a different direction" and provided the
+impetus for "concerted" federal enforcement efforts, including litigation to
+desegregate the systems of public higher education in four other states.  Id. at
+796. Moreover, the groundbreaking legal principles established in Geier were
+subsequently affirmed by this Court in United States v. Fordice, 505 U.S. 717
+(1992).
+
+   Geier thus contributed significantly to the enforcement of civil rights law
+by clarifying the constitutional obligations of state higher education systems
+and spurring additional enforcement efforts. On remand, the district court took
+these factors into account and concluded that a 25% enhancement was "justified
+and reasonable" given the "overall result obtained and the rare and exceptional
+nature of the case." Geier v. Sundquist, No. 5077, slip op. at 10 (M.D. Tenn.
+Jan. 21, 2005).
+
+   In a similarly pathmarking case that provided significant guidance regarding
+compliance with antidiscrimination law, the district court in Chrapliwy v.
+Uniroyal, Inc., 583 F. Supp. 40, 45 (N.D. Ind. 1983), [**34]  awarded an
+enhancement for "exceptional" performance and results under Title VII's
+attorney's fees provision, 42 U.S.C. § 2000e-5(k), which served as a template
+for Section 1988. In Chrapliwy, the plaintiff class of over 500 female workers
+at an Indiana factory obtained a substantial settlement in a  [*20]  Title VII
+action challenging gender-segregated hiring and seniority policies.  583 F.
+Supp. at 42.
+
+   The settlement was prompted by the plaintiffs' separate administrative
+action, in which the U.S. Department of Labor threatened to bar the factory's
+corporate owner, then one of the federal government's largest contractors, from
+future contracts, pursuant to Executive Order No. 11246, 30 Fed. Reg. 12,319
+(1965), reprinted as subsequently amended in 42 U.S.C. § 2000e app. (prohibiting
+discrimination by federal contractors).  Chrapliwy, 583 F. Supp. at 42-43; see
+also Chrapliwy v. Uniroyal, Inc., 509 F. Supp. 442, 444-48 (N.D. Ind. 1981). In
+awarding an enhancement, the district court emphasized the "impact of this
+lawsuit on the Department of Labor":
+
+
+     The [**35]  actions by the plaintiffs' attorneys forced the Labor
+     Department to create a working enforcement system to implement
+     Executive Order 11246, and police other federal contractors in their
+     compliance with its procedures. This mechanism will continue to
+     operate, vindicating the rights of other employees and effectuating
+     the congressional intent behind both Title VII and the Executive
+     Order.
+
+
+ Chrapliwy, 583 F. Supp. at 45 (quoting Chrapliwy, 509 F. Supp. at 462). n8
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n8 The district court originally approved a larger enhancement. See
+Chrapliwy, 509 F. Supp. at 462. The Seventh Circuit held that the district court
+"carefully evaluated its reasons for allowing" the enhancement.  Chrapliwy v.
+Uniroyal, Inc., 670 F.2d 760, 770 (7th Cir. 1982). But the Seventh Circuit
+determined that the district court's lodestar calculation was too low and
+ordered increases. Id. Due to this alteration, the Seventh Circuit remanded for
+the district court to check for "possible overlaps" between the factors
+encompassed in the new lodestar figure and the enhancement. Id. On remand, the
+district court reduced the amount of the enhancement to account for overlap.
+Chrapliwy, 583 F. Supp. at 45.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**36]
+
+    [*21]  Also illustrative of this category of cases is Shakman v. Democratic
+Organization of Cook County, 677 F. Supp. 933 (N.D. Ill. 1987), in which the
+district court granted an enhancement equal to one-third of the lodestar because
+it had "never presided over a case with greater significance or more widefelt
+impact in the area of civil rights." Id. at 944-48. Counsel was able to "invoke
+judicial protection of constitutional rights which previously had not been
+clearly recognized by the courts"; and the litigation gave "rise to a new class
+of equitable actions" to protect the "constitutional right[] to be free from
+political coercion in public employment" and "resulted in substantial political,
+social and economic benefits not only for members of the plaintiff classes, but
+also for all who are affected by the public officers and entities named as
+defendants in this action." Id. at 945, 947. n9
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n9 See also Rajender v. Univ. of Minn., 546 F. Supp. 158, 171 (D. Minn. 1982)
+(granting an enhancement in a case that resulted in comprehensive policy reforms
+"to ensure that the University of Minnesota is purged of discriminatory
+employment practices"); Reynolds v. Abbeville County Sch. Dist. No. 60, No.
+72-1209, 1978 WL 64, at *8 (D.S.C. Mar. 16, 1978) (granting a 10% enhancement
+because the case contributed to "the elimination of discrimination by the
+Edgefield public schools in faculty employment and assignment [which] will
+produce benefits for all teachers, principals and residents of the county," and
+"[t]he case also established precedent which will benefit faculty members,
+present and future, in the jurisdiction of the Fourth Circuit").
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**37]
+
+    [*22]  2. Courts have also found it appropriate to enhance fees in civil
+rights cases that achieve farreaching policy changes and root out entrenched
+statutory or constitutional violations. As this Court has recognized, Congress
+intended for fee-shifting provisions to promote broad, rather than piecemeal,
+civil rights compliance. See Newman v. Piggie Park Enters., Inc., 390 U.S. 400,
+401 (1968) ("When the Civil Rights Act of 1964 was passed, it was evident that
+enforcement would prove difficult and that the Nation would have to rely in part
+upon private litigation as a means of securing broad compliance with the law."
+(emphasis added)).
+
+   This Court's observations in Piggie Park--a case that was cited favorably in
+the legislative history of Section 1988, see Senate Report 3; House Report
+6--remain relevant today given the central role that private litigants continue
+to play in the enforcement of civil rights laws. Cases that establish
+broad-based relief vindicate the public interest by bringing large institutions
+or government agencies into full compliance with the law, which benefits
+similarly-situated plaintiffs and the public generally.
+
+   Awarding [**38]  an enhancement on this basis does not conflict with this
+Court's admonition in Blum that the "number of persons benefited" should not be
+a significant consideration in calculating fees.  465 U.S. at 900 n.16 (emphasis
+omitted). In the context of a class action, Blum held that an attorney should
+not need enhanced compensation merely because the class includes a large number
+of individuals. Id.  [*23]  ("Presumably, counsel will spend as much time and
+will be as diligent in litigating a case that benefits a small class of people,
+or, indeed, in protecting the civil rights of a single individual."). Blum did
+not, however, consider the incentives that may be necessary to attract attorneys
+to cases with sweeping public benefits; it addressed only the level of lawyerly
+diligence required once a case has been filed.
+
+   For example, a district court awarded a 50% enhancement for exceptional
+performance and results in a class action that successfully challenged the
+hiring and promotion practices of the Pennsylvania State Police, where racial
+discrimination "was so entrenched that the Governor of the Commonwealth conceded
+he could not eliminate it--and he had failed [**39]  in the attempt." Bolden v.
+Pa. State Police, 491 F. Supp. 958, 966 (E.D. Pa. 1980). The court recognized
+that the lawsuit resulted in "tangible benefits flowing directly to the
+citizenry of the Commonwealth." Id. As a consequence of the case, "minorities
+have access to employment in the Pennsylvania State Police on a
+nondiscriminatory basis, and the citizens of Pennsylvania will have a
+representative law enforcement agency that is not tainted by constitutional
+illegality." Id.
+
+   An equally far-reaching outcome was one of the key factors justifying the
+enhancement in White v. City of Richmond, 559 F. Supp. 127 (N.D. Cal. 1982),
+aff'd, 713 F.2d 458 (9th Cir. 1983). The plaintiffs in White alleged that
+Richmond, California police officers routinely beat, harassed, and then filed
+groundless charges against African-American residents. The lawsuit resulted in a
+consent decree that required the police department to overhaul its policies
+[*24]  on the use of deadly and non-deadly force, establish training programs
+and counseling for all officers, permit an independent monitor to inspect the
+department's internal affairs and [**40]  citizen complaint files, and provide
+an affirmative action program for minority officers.  White, 559 F. Supp. at
+130, 134. The Ninth Circuit upheld the district court's conclusion that the
+comprehensive remedial scheme represented the type of "exceptional success"
+warranting an enhancement.  White, 713 F.2d. at 462.
+
+   Similar considerations have guided other courts in awarding enhancements for
+outcomes that contributed exceptionally to civil rights enforcement, and
+especially those that precipitated "fundamental change to a recalcitrant agency"
+or institution.  Hyatt v. Apfel, 195 F.3d 188, 192 (4th Cir. 1999). n10 This
+criterion has also been applied in cases in which LDF opposed the substantive
+result for which the enhancement was awarded. See, e.g., Parents Involved  [*25]
+in Cmty. Schs. v. Seattle Sch. Dist. No. 1, 551 U.S. 701 (2007); Meredith v.
+Jefferson County Bd. of Educ., No. 3:02 CV-620-H, 2007 WL 3342282, at *4 (W.D.
+Ky. Nov. 9, 2007) ("Regardless of one's view of the law or educational policy,
+this case has changed the face of American jurisprudence.").
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n10 See also, e.g., DeHoyos v. Allstate Corp., 240 F.R.D. 269, 330-31, 334
+(W.D. Tex. 2007) (awarding an enhancement for a successful challenge to a
+racially discriminatory credit-scoring system where attorneys achieved
+"extraordinary results," including a "change in the credit scoring formula, an
+educational outreach program, multi-cultural marketing, [and] an improved
+appeals process"); Morales Feliciano v. Hernandez Colon, 697 F. Supp. 51, 61
+(D.P.R. 1988) (granting an enhancement because, inter alia, plaintiffs'
+attorneys were "pioneers of the prisoners' rights movement in Puerto Rico" and
+"[w]ithout their initiative, more than 8,000 citizens would probably still be
+held under custody in violation of their basic constitutional rights"); Kirksey
+v. Danks, 608 F. Supp. 1448, 1458 (S.D. Miss. 1985) (awarding an enhancement
+where, inter alia, "this lawsuit was the one major factor causing the petition
+drive and referendum election ultimately changing the form of government for the
+City of Jackson").
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**41]
+
+   The instant case squarely meets this second criterion for awarding an
+enhancement for extraordinary performance and results. As the district court
+recognized, Respondents secured "sweeping relief to the plaintiff class" of
+3,000 foster care children who alleged widespread constitutional and statutory
+violations, and they did so through a consent decree that is both "comprehensive
+in its scope and detailed in its coverage." Pet. App. 152-54 (reviewing the
+decree's thirty-one outcome measures that seek improvement in different areas of
+the foster care system). The district judge further concluded: "After 58 years
+as a practicing attorney and federal judge, the Court is unaware of any other
+case in which a plaintiff class has achieved such a favorable result on such a
+comprehensive scale." Id. at 154.
+
+   3. The three attorney's fees cases cited in the legislative history of
+Section 1988, see Part I.A supra, are also consistent with the criteria outlined
+above:
+
+   Davis v. County of Los Angeles. In Davis, a class of Latino and
+African-American plaintiffs prevailed on their claim that the Los Angeles County
+Fire Department's hiring practices were racially discriminatory.  [**42]  A
+sweeping remedial order provided "substantial and significant benefits" to the
+class, including fair and equitable hiring procedures.  Davis, 1974 WL 180, at
+*1. On a motion for attorney's fees, the  [*26]  district court enhanced the
+lodestar figure by more than 13%, after considering the "excellent results"
+achieved by the plaintiffs' attorneys. Id. at *2. n11
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n11 The Ninth Circuit affirmed in part the liability and remedial rulings.
+See Davis v. County of Los Angeles, 566 F.2d 1334 (9th Cir. 1977). This Court
+granted certiorari, but subsequently dismissed the case as moot.  County of Los
+Angeles v. Davis, 440 U.S. 625 (1979).
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   Stanford Daily v. Zurcher. After demonstrators injured several police
+officers during a protest against Stanford University Hospital's firing of an
+African-American employee, the Stanford Daily published photographs of the
+incident. See William Trombley, Campuses Optimistic That Calm Will Prevail, L.A.
+Times, Apr. 12, 1971, at [**43]  D1. A federal district court held that the
+police violated the Fourth Amendment when they searched the newspaper's office
+for negatives of unpublished photographs in an effort to identify the
+assailants.  Stanford Daily v. Zurcher, 353 F. Supp. 124, 126-27 (N.D. Cal.
+1972). On a motion for attorney's fees, the district court granted an
+enhancement based in part on the extraordinary "results obtained by the
+litigation," which set a new constitutional standard for searches of individuals
+who are not themselves suspected of a crime.  Stanford Daily, 64 F.R.D. at
+687-88. n12
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n12 Although this Court acknowledged that the district court's constitutional
+analysis was pathmarking, it ultimately rejected such a "sweeping revision of
+the Fourth Amendment." Zurcher v. Stanford Daily, 436 U.S. 547, 554 (1978). In
+doing so, however, the Court did "not consider the propriety of [the fees]
+award," id. at 553 n.3, and its decision does not disavow Congress's intent to
+authorize Section 1988 enhancements where a similarly precedent-setting result
+is obtained.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**44]
+
+    [*27]  Swann v. Charlotte-Mecklenburg Board of Education. This case, which
+was litigated by amicus LDF and local co-counsel, involved "the largest
+metropolitan school system which at that time had ever been completely
+desegregated by order of court." Swann, 66 F.R.D. at 485. Ruling on a motion
+from LDF's local co-counsel for attorney's fees after years of litigation
+including a victory in this Court, see Swann v. Charlotte-Mecklenburg Bd. of
+Educ., 402 U.S. 1 (1971), the district court did not expressly award an
+enhancement; but, relying in part on the attorneys' "excellent" results in the
+face of significant obstacles, the district court granted them more than double
+the rate it identified as the minimum hourly fee charged by counsel appearing in
+federal courts.  Swann, 66 F.R.D. at 484, 486.
+
+   Enhancements in antitrust cases, including Arenson described in Part I.B
+supra, also are consistent with these criteria. See 372 F. Supp. at 1352, 1358
+(awarding an enhancement where "[a]n entire industry has been restructured" as a
+result of the suit and the case "could well be of great instructive precedent
+[**45]  in subsequent litigation").
+
+   4. Federal courts have been careful to respect this Court's mandate that
+enhancements for extraordinary performance and results should only be granted in
+exceptional circumstances. Enhancements are uncommon, and courts have
+consistently denied them for garden-variety discrimination claims brought by
+individual plaintiffs. See, e.g., West v. Tyson Foods, Inc., No. 4:05-cv-183 M,
+2008 WL 5110954, at *3 (W.D. Ky. Dec. 3, 2008); Baty v. Willamette Indus., Inc.,
+985 F. Supp. 1002, 1008 (D. Kan. 1997); see also Lynch v. City of Milwaukee, 747
+F.2d 423, 428  [*28]  (7th Cir. 1984) ("[P]ositive multipliers should be given
+only in cases that are significant and where the quality of the attorney's work
+is considerably above average. . . ." (internal citations and quotation marks
+omitted)).
+
+   Federal courts have thus consistently recognized the link between achievement
+of the important objectives set out by Congress in federal civil rights statutes
+and the practical reality that lawyers need incentives to choose cases that
+challenge entrenched inequities and have the potential to produce groundbreaking
+results,  [**46]  and then to advocate for appropriately wide-ranging relief.
+See Vulcan Soc'y of Westchester County, Inc. v. Fire Dep't of City of White
+Plains, 533 F. Supp. 1054, 1065-66 (S.D.N.Y. 1982) (finding an enhancement
+justified to encourage private attorneys to take "cases such as the present one,
+which succeed in accomplishing major changes in the hiring policies and
+practices of municipal agencies, and which open up significant employment
+opportunities to minorities").
+
+B. The criteria that courts have used to award enhancements for extraordinary
+performance and results are consistent with Supreme Court precedent.
+
+   The criteria outlined in Part II.A supra are consistent with the guidelines
+set forth by this Court's interpretations of Section 1988 and similar attorney's
+fees provisions in other federal statutes.
+
+   In Blum, this Court rejected a categorical rule that enhancements are never
+permissible in cases of "exceptional success." 465 U.S. at 897, 901. Blum
+stressed that it was not precluding consideration of  [*29]  "results obtained"
+but rather establishing a strong presumption that results are factored into the
+lodestar calculation.  [**47]  Id. at 900-01. That presumption may be rebutted,
+but "only in certain 'rare' and 'exceptional' cases, supported by both 'specific
+evidence' on the record and detailed findings by the lower court." Pennsylvania
+v. Del. Valley Citizens' Council for Clean Air, 478 U.S. 546, 565 (1986)
+(quoting Blum, 465 U.S. at 898-901). As discussed in Part II.A supra, federal
+courts have appropriately applied these instructions to distinguish those rare
+and exceptional cases for which results-based enhancements are justified.
+
+   Federal courts' awards of enhancements for extraordinary performance and
+results are also consistent with City of Burlington v. Dague, 505 U.S. 557
+(1992) (denying an enhancement on the ground that the case was taken on a
+contingency basis). In Dague, the Court was concerned that awarding contingency
+enhancements would create incentives for attorneys to bring "relatively
+meritless claims," which is "an unlikely objective of the 'reasonable fees'
+provisions." Id. at 563. In sharp contrast, enhancements for extraordinary
+performance and results create exactly the sort of incentives that [**48]
+Congress contemplated: They encourage attorneys to choose and pursue cases with
+strong factual bases that significantly further equality of opportunity and
+other critical civil rights.
+
+   The Court in Dague also worried that contingency enhancements would already
+be reflected in the lodestar calculation.  Id. at 562-63. But in the rare cases
+warranting enhancements for exceptional performance and results, the lodestar
+does not always  [*30]  provide the appropriate incentives to attract competent
+counsel to assert bold legal theories in challenges to entrenched discrimination
+and other inequities. See, e.g., Sims v. Amos, 340 F. Supp. 691, 694 (M.D. Ala.
+1972) (noting that a voting discrimination case, where "plaintiffs have
+benefited their class and have effectuated a strong congressional policy,"
+"clearly falls among those meant to be encouraged under the principles
+articulated in [Supreme Court precedents endorsing attorney's fees for citizens
+acting as private attorneys general]" (emphasis added)), cited with approval in
+Senate Report 4 n. 3. Without incentives for attorneys to take on these types of
+cases, civil rights laws will [**49]  not always be vigorously and effectively
+enforced, contrary to the intent of Congress.
+
+   Moreover, while the lodestar calculation typically reflects the skills and
+experience that a lawyer brings to bear on a case, it is not determined based on
+the type of case and relief the lawyer chooses to pursue. Cf.  Graves v. Barnes,
+700 F.2d 220, 223 (5th Cir. 1983). The proper inquiry in determining an
+enhancement for extraordinary performance and results is the value of the legal
+services provided--more value is provided through broad-reaching relief. For
+example, where a civil rights litigant secures an order or consent decree that
+results in groundbreaking policy reforms, the outcome affects not only the
+plaintiffs but also numerous other individuals who do not have to sue to obtain
+relief on their own.
+
+   In sum, Petitioners urge--without any basis in text, precedent, or
+legislative history--a new Courtmade rule that would structurally
+under-compensate  [*31]  civil rights litigants in key cases yielding the most
+extraordinary results that significantly safeguard and enhance critical civil
+rights. The Court should reject Petitioners' unsupported attempt to ignore
+Congress's [**50]  considered judgment that the full availability of reasonable
+attorney's fees is crucial to the vigorous and effective enforcement of federal
+civil rights laws.
+
+CONCLUSION
+
+   For the foregoing reasons, as well as those outlined by Respondents, the
+decision below should be affirmed.
+
+   Respectfully submitted,
+
+JOSHUA CIVIN, KRISTEN CLARKE, NAACP Legal Defense & Educational Fund, Inc., 1444
+I Street, NW, 10th Floor, Washington, DC 20005, (202) 682-1300
+
+JOHN PAYTON, Director-Counsel, DEBO P. ADEGBILE, Counsel of Record, MATTHEW
+COLANGELO, KIMBERLY LIU, NAACP Legal Defense & Educational Fund, Inc., 99 Hudson
+Street, 16th Floor, New York, NY 10013, (212) 965-2200
+
+August 28, 2009

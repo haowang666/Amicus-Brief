@@ -1,0 +1,1150 @@
+﻿
+4 of 39 DOCUMENTS
+
+View Original Source Image of This Document   Go to Supreme Court Opinion
+Go to Supreme Court Transcript
+
+           SHAUN MCCUTCHEON, ET AL., Appellants, v. FEDERAL ELECTION
+                             COMMISSION, Appellee.
+
+                                   No. 12-536
+
+                       SUPREME COURT OF THE UNITED STATES
+
+            2012 U.S. Briefs 536; 2013 U.S. S. Ct. Briefs LEXIS 3047
+
+                                 July 25, 2013
+
+            On Appeal From The United States District Court For The
+                             District Of Columbia.
+
+                                  Amicus Brief
+
+COUNSEL:  [**1]  ELIZABETH KENNEDY, ADAM LIOZ, DEMOS, New York, NY, BRENDA
+WRIGHT, Counsel of Record, DEMOS, Brighton, MA, Counsel for Amici Curiae.  [*i]
+
+INTERESTS:  [*1]  INTEREST OF AMICI CURIAE
+
+   This brief is filed on behalf of amici curiae Communications Workers of
+America, Greenpeace, NAACP, Sierra Club, the American Federation of Teachers,
+Main Street Alliance, OurTime.org, People for the American Way Foundation, Rock
+the Vote, U.S.PIRG, the Working Families Organization, and Demos. Amici
+collectively represent millions of Americans who are concerned about the effect
+of large campaign contributions on the integrity and responsiveness of the
+United States government. A description of each amicus is included in an
+Appendix to this Brief. n1
+
+
+
+   n1 Pursuant to Rule 37.6, no counsel for a party authored this brief in whole
+or in part, and no counsel or party made a monetary contribution intended to
+fund the preparation or submission of this brief. No person or entity other than
+amici curiae has made a monetary contribution to the preparation or submission
+of this brief. The written consents of the parties to the filing of this brief
+have been filed with the Clerk.
+
+TITLE: BRIEF OF AMICI CURIAE COMMUNICATIONS WORKERS OF AMERICA, GREENPEACE,
+NAACP, SIERRA CLUB, AMERICAN FEDERATION OF TEACHERS, MAIN STREET ALLIANCE,
+OURTIME.ORG, PEOPLE FOR THE AMERICAN WAY FOUNDATION, ROCK THE VOTE, U.S.PIRG,
+WORKING FAMILIES ORGANIZATION AND DEMOS IN SUPPORT OF APPELLEE
+
+SUMMARY OF ARGUMENT
+
+   This Court has long grounded its campaign finance jurisprudence on the
+government's compelling interest in fighting corruption or its appearance.
+Fighting the perception and the reality of a democratic government corrupted by
+the improper influence of financial support, however, is more than just a
+compelling reason for regulation; it is a responsibility of any democratic
+government. Legitimacy -- the belief  [*2]  by the people that they are fairly
+represented -- after all, is a first principle of democratic governance.
+
+   Aggregate contribution limits function in tandem with base contribution
+limits to protect the legitimacy of our democratic government by combatting the
+perception and reality of corruption. See infra Point I. Aggregate [**8]  limits
+ensure that no one donor can find ways to funnel hundreds of thousands of
+dollars to a candidate or a party, and candidates and officeholders cannot
+solicit huge sums from a single donor -- which evidence suggests would foster a
+belief among the public that elected officials are improperly influenced by such
+large contributions. At the same time, contribution limits impose only an
+indirect burden on speech and thus are not subject to strict scrutiny. For these
+reasons, this Court upheld aggregate contribution limits in Buckley v. Valeo,
+424 U.S. 1 (1976) (per curiam), and has had no cause to reconsider this sound
+principle.
+
+   Appellants ask this Court to overrule settled precedent regarding
+contribution limits at a particularly inopportune time, because even with these
+limits in place public confidence in U.S. government is by some measures at an
+all-time low. Public opinion data demonstrate that this lack of confidence in
+government is tied to the widespread perception that government is more
+responsive to financial supporters than to voters or the public interest, and is
+corrupted by the improper influence of money in campaigns. See infra Point II.
+
+    [*3]   [**9]  Recent political science research has demonstrated more
+clearly than ever before that this public concern is not speculative or
+irrational but rather quite closely tethered to reality. See infra Point III.
+Campaign funding has long been the province of large donors, but the
+near-dominance of a tiny fraction of the U.S. population over contributions to
+federal candidates has escalated in recent years. Important new research has
+documented that the wealthy have starkly different policy priorities than the
+general public, especially on economic issues, and that government in the U.S.
+responds differentially -- often dramatically so -- to the preferences of those
+who are able to make large campaign contributions, even when these preferences
+run counter to those of the general public. This particularly affects
+communities of color, which are far less likely to be represented among the
+ranks of those whose policy preferences appear to influence officeholders.
+Campaign finance is a significant factor in this dynamic.
+
+   Striking aggregate contribution limits will exacerbate problems of corruption
+and its appearance. See infra Point IV. Without these limits, a small cadre of
+donors will [**10]  be able to contribute millions of dollars to candidates,
+parties, and political action committees, and candidates and officeholders will
+be permitted to solicit large sums from potential donors, functionally reviving
+the "soft money" system that Congress acted to end a mere 11 years ago. This
+will provide further (and renewed) incentive for federal candidates and
+officeholders to grant these donors improper influence,  [*4]  skewing policy
+outcomes more and more towards the preferences of donors as opposed to those of
+the general public.
+
+   Perceptions of corruption are already at dangerous levels in the United
+States. These perceptions are not irrational fears but rather reasoned reactions
+to a system that is more responsive to the policy preferences of a narrow
+segment of the electorate as a result of the improper influence gained through
+large financial contributions. This Court must not risk undermining the
+legitimacy of our Republic by overturning longstanding precedent to strike a key
+bulwark against the reality and appearance of corruption of our democratic
+government.
+
+ARGUMENT
+
+I. AGGREGATE CONTRIBUTION LIMITS ARE A LONGSTANDING MEASURE TO MEET THE
+GOVERNMENT'S  [**11]   RESPONSIBILITY TO FIGHT THE REALITY AND APPEARANCE OF
+CORRUPTION.
+
+   Appellants challenge the aggregate biennial limit that currently caps the
+total that an individual can contribute to all federal candidates, parties, and
+committees combined at $ 123,200. See 2 U.S.C. § 441a(a)(3) (2011); 76 Fed. Reg.
+8,370 (Feb. 14, 2011); FEC, Price Index Adjustments for Contribution and
+Expenditure Limitations and Lobbyist Bundling Disclosure Threshold, Notice
+2013-03, 78 Fed. Reg.  [*5]  8,530, 8,532 (Feb. 6, 2013). The $ 123,200
+aggregate limit is broken down between a $ 48,600 ceiling on contributions to
+all federal candidates and their committees, and a $ 74,600 limit on
+contributions to all other committees (including no more than $ 48,600 to
+committees other than national party committees). 2 U.S.C. § 441a(a)(3). These
+limits are needed to ensure that donors cannot circumvent the complementary
+limits on contributions to individual candidates, parties and committees, and to
+serve the long-recognized governmental interest in deterring "the reality or
+appearance of improper influence stemming from the dependence [**12]  of
+candidates on large campaign contributions." Buckley, 424 U.S. at 58.
+
+A. Aggregate contribution limits fight the reality and appearance of corruption
+without unduly burdening the exercise of a constitutional right.
+
+   Congress adopted base and aggregate contribution limits in the 1974
+Amendments to the Federal Election Campaign Act of 1971 (FECA), which were
+upheld in Buckley. Federal Election Campaign Act of 1971,   Pub. L. No. 92-225,
+
+   86 Stat. 3. Though details of the protections have changed, their purpose to
+fight the reality and appearance of corruption has not.
+
+   Appellants challenge the aggregate contribution limits adopted in the
+Bipartisan Campaign Reform Act of 2002 ("BCRA").   Pub. L. No. 107-155, § 307,
+
+  116 Stat. 81, 102-03 (2002). The court below upheld them,  [*6]  finding that
+without the aggregate limits, "an individual might contribute $ 3.5 million to
+one party and its affiliated committees in a single election cycle." McCutcheon
+v. FEC, 893 F. Supp. 2d 133, 135 (D.D.C. 2012).
+
+   In Buckley, the Court determined that [**13]  "[w]hile contributions may
+result in political expression if spent by a candidate or an association . . . ,
+the transformation of contributions into political debate involves speech by
+someone other than the contributor." Buckley, 424 U.S. at 20-21. Hence, the
+aggregate contribution limits entail only a marginal restriction upon First
+Amendment rights, and thus this "quite modest restraint," id. at 38, is subject
+to less exacting scrutiny than is a limit on expenditures. This core distinction
+between limits on expenditures and limits on contributions has remained at the
+heart of this Court's campaign finance jurisprudence since Buckley. See, e.g.,
+Beaumont v. FEC, 539 U.S. 146, 162 (2002) ("[A] contribution limit involving
+significant interference with associational rights passes muster if it satisfies
+the lesser demand of being closely drawn to match a sufficiently important
+interest." (internal quotation marks omitted)). n2 Appellant McCutcheon  [*7]
+can exercise his associational rights by contributing money to as many
+candidates as he likes, and is not barred from giving to any candidate, party,
+or committee. He merely [**14]  has to abide by clear total ceilings on
+contributions because Congress has determined that aggregate limits are
+important to fight the reality and appearance of corruption and to prevent
+circumvention of the base limits.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n2 Amici agree with, and do not further address here, the FEC's argument that
+Appellants have presented no sound justification for the Court to overrule
+Buckley by applying strict scrutiny to the contribution limits challenged in
+this case. See Merits Brief of the Appellee at 25-31, McCutcheon v. FEC, No.
+12-536, 2013 WL 3773847.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   In McConnell v. FEC, 540 U.S. 93 (2003), this Court upheld a ban on "soft
+money" contributions to political parties precisely because of the importance of
+effective contribution limits to fighting corruption and its appearance. The
+aggregate limits at issue in this case serve the same function -- namely,
+preventing the inevitable reality and appearance of corruption when candidates
+and officeholders solicit huge sums from [**15]  individuals with particular
+policy agendas, and when such individuals are permitted to funnel contributions
+well over base limits to key officeholders or party leaders. See Mem. of
+Campaign Legal Center & Democracy 21 as Amici Curiae in Opp'n Pls.['] Mot.
+Prelim. Inj. at 6-9, McCutcheon v. FEC, 893 F. Supp. 2d 133 (D.D.C. 2012) (No.
+12cv1034(JEB)(JRB)(RLW)).
+
+B. Government has a compelling interest in fighting the reality and appearance
+of corruption to protect the integrity of democratic governance.
+
+   Contribution limits protect against quid pro quo corruption and the
+appearance thereof. As the Court  [*8]  has continuously recognized, rules to
+fight the reality and appearance of corruption are necessary to protect the
+integrity of democratic government and the interests of its citizens. "Our cases
+have made clear that the prevention of corruption or its appearance constitutes
+a sufficiently important interest to justify political contribution limits."
+McConnell v. FEC, 540 U.S. at 143. The Court has consistently cited the danger
+that large contributions pose to representative government, recognizing that
+"[t]o the extent that [**16]  large contributions are given to secure a
+political quid pro quo from current and potential officeholders, the integrity
+of our system of representative democracy is undermined." Buckley, 424 U.S. at
+26-27; see also FEC v. Colo. Federal Campaign Comm. (Colorado II), 533 U.S. 431,
+440-41 (2001) ("[L]imits on contributions are more clearly justified by a link
+to political corruption than limits on other kinds of . . . political spending
+are.").
+
+   The Court has written " . . . the primary interest served by the limitations
+. . . is the prevention of corruption and the appearance of corruption spawned
+by the real or imagined coercive influence of large financial contributions on
+candidates' positions and on their actions if elected to office." Buckley, 424
+U.S. at 25. In upholding FECA's original contribution limits, the Buckley Court
+explained that:
+
+
+     These limitations, along with the disclosure provisions, constitute
+     the Act's primary weapons against the reality or appearance of
+     improper influence stemming from the  [*9]  dependence of candidates
+     on large campaign contributions. The contribution ceilings thus serve
+     [**17]  the basic governmental interest in safeguarding the integrity
+     of the electoral process without directly impinging upon the rights of
+     individual citizens and candidates to engage in political debate and
+     discussion.
+
+
+Id. at 58.
+
+   Congress is also entitled to take into account the fact that experience
+"demonstrates how candidates, donors, and parties test the limits of the current
+law, and it shows beyond serious doubt how contribution limits would be eroded
+if inducement to circumvent them were enhanced. . . ." Colorado II, 533 U.S. at
+446-47. The aggregate contribution limits serve to alleviate the threat of
+corruption arising from solicitations of multiple donations from one big donor.
+
+   While the prospect of an individual contributing more than $ 3.5 million in a
+federal election, or candidates or officeholders soliciting hundreds of
+thousands of dollars from a single donor through joint fundraising committees,
+certainly raises the risk of actual corruption, government also retains a strong
+interest in deterring the appearance of corruption that such large contributions
+inevitably create. The Court has recognized that "[o]f almost equal concern
+[**18]  as the danger of actual quid pro quo arrangements is the impact of the
+appearance of corruption stemming from public awareness of the opportunities for
+abuse inherent in a regime of large individual financial contributions." Buckley
+, 424 U.S. at 27.
+
+    [*10]  A democratic government has not merely a compelling interest, but a
+responsibility, to prevent the loss of faith in government that is created by a
+regime of large individual contributions. The Court has wisely recognized that
+"Congress could legitimately conclude that the avoidance of the appearance of
+improper influence 'is also critical . . . if confidence in the system of
+representative [g]overnment is not to be eroded to a disastrous extent.'" Id.
+(quoting United States Civil Serv. Comm'n v. Nat'l Ass'n of Letter Carriers, 413
+U.S. 548, 565 (1973)). As the Court has written, "in Buckley v. Valeo, we
+specifically affirmed the importance of preventing both the actual corruption
+threatened by large financial contributions and the eroding of public confidence
+in the electoral process through the appearance of corruption. These interests
+directly implicate 'the integrity of our [**19]  electoral process, and, not
+less, the responsibility of the individual citizen for the successful
+functioning of that process."' FEC v. National Right to Work Comm., 459 U.S.
+197, 208 (1982) (quoting United States v. UAW-CIO, 352 U.S. 567, 570 (1957)).
+See also Cal. Med. Ass'n v. FEC, 453 U.S. 182, 194 n.15, 195 (1981) (noting that
+the Buckley Court upheld base and aggregate limits because "such limitations
+served the important governmental interests in preventing the corruption or
+appearance of corruption of the political process that might result if such
+contributions were not restrained" (emphasis added) (citing Buckley v. Valeo,
+424 U.S. at 23-38)).
+
+    [*11]  The Court should be wary of exacerbating fundraising dynamics that
+put pressure on representatives to favor the positions of those upon whom they
+rely for financial support. The Court recognized in Citizens United v. FEC, 558
+U.S. 310, 361 (2010), that "[i]f elected officials succumb to improper
+influences . . . ; if they surrender their best judgment; and if they put
+expediency before principle, then surely there is cause for [**20]  concern. We
+must give weight to attempts by Congress to seek to dispel either the appearance
+or the reality of these influences."
+
+   While in Citizens United Justice Kennedy wrote "the appearance of influence
+and access . . . will not cause the electorate to lose faith in our democracy,"
+this was in the context of examining independent expenditures, "by definition .
+. . not coordinated with a candidate." Id. The Court has never doubted that
+direct financial relationships between supporters and candidates or parties
+present a serious risk of corruption and the appearance of corruption. In fact,
+the Citizens United Court made this precise distinction, stating that "[t]he
+BCRA record establishes that certain donations to political parties, called
+'soft money,' were made to gain access to elected officials. This case, however,
+is about independent expenditures, not soft money." 558 U.S. at 360-61
+(citations omitted). The instant case, of course, is not about independent
+expenditures; it is in fact about the type of large direct contributions given
+by individual donors and solicited by candidates and officeholders  [*12]  that
+characterized the "soft money" system [**21]  that Congress acted through BRCA
+to end.
+
+   Invalidation of the current aggregate limits would allow a single individual
+to direct huge sums to federal candidates, committees, and parties in an
+election cycle, and allow candidates and officeholders to solicit such sums
+directly. Allowing such enormous contributions would give rise to the kind of
+improper influence over federal officeholders that undermines public confidence
+in government and its ability to be responsive to the citizenry as a whole. The
+Court has repeatedly relied on its finding that "[t]ake away Congress' authority
+to regulate the appearance of undue influence and 'the cynical assumption that
+large donors call the tune could jeopardize the willingness of voters to take
+part in democratic governance.'" McConnell, 540 U.S. at 144 (quoting Nixon v.
+Shrink Mo. Gov't PAC, 528 U.S. 377, 390 (2000)).
+
+II. THE EROSION OF PUBLIC CONFIDENCE IN GOVERNMENT STEMMING FROM CONTRIBUTIONS
+THAT CREATE THE APPEARANCE OF CORRUPTION IS A SERIOUS, AND NOT A SPECULATIVE,
+CONCERN.
+
+   Appellants ask this Court to strike aggregate contribution limits at a
+particularly inopportune time. Even with these [**22]  limits in place,
+significant majorities of Americans express the concern that the actions of
+their government are responsive to the wishes of financial supporters; that
+their government  [*13]  does not represent their interests or respond to the
+needs of the broad populace anymore; and that this reflects a corruption of
+government and its ability to serve the public. The legal scholar Robert Post
+describes "the growing fear that our elections are increasingly failing to
+fulfill their democratic task, and that as a consequence the successful
+legitimation of our constitutional government may be slipping from our grasp."
+Robert Post, Campaign Finance Regulation and First Amendment Fundamentals, in
+Money, Politics, and the Constitution: Beyond Citizens United 11, 18 (M. Youn,
+ed. 2011).
+
+A. Americans' confidence in government is at an all-time low.
+
+   Where the public believes that government is corrupt, we can expect to see an
+erosion of "confidence in the system of representative government." See Buckley,
+424 U.S. at 26-27.
+
+   Since 1958, the National Election Survey has included three questions that
+pertain to corruption in government. Survey administrators [**23]  use these
+questions to calculate the Trust in Government Index, which measures Americans'
+faith in government on a one to 100 scale. In 2008, the last year for which the
+Trust in Government Index is available, the Index  [*14]  tied with its prior
+(1994) low of 26. Since then the indicia that make up the Index have all
+declined. n3
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n3 Am. Nat'l Election Studies, User's Guide and Codebook for the Preliminary
+Release of the ANES 2012 Time Series Study 451, 454, 455, 489 (July 1, 2013)
+[hereinafter NES 2012 Dataset], available at http://www.electionstudies.org; see
+also Am. Nat'l Election Studies, The ANES Guide to Public Opinion and Electoral
+Behavior, tbl.5A.5, available at
+http://www.electionstudies.org/nesguide/toptable/tab5a_5.htm (last visited July
+12, 2013). For example, in 2008 69% of Americans agreed with the statement that
+the "government is pretty much run by a few big interests looking out for
+themselves" as opposed to being "run for the benefit of all the people." By
+2012, the percentage of Americans believing government is run by a few big
+interests looking out for themselves had shot up ten points, to 79% of
+Americans; the share of Americans who thought that our government is run for the
+benefit of all had fallen from 29% in 2008 to only 19% in 2012. Voters'
+responses to other questions making up the indicia show similar changes. In
+2008, 51% of voters thought "quite a few" of the people running the government
+are crooked. In 2012, that figure rose to almost 60%. In 2008, 25% said that
+they trust Congress to do the right thing "most of the time," dropping to only
+5.7% in 2012. Id.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**24]
+
+   Further, the public has the lowest level of confidence in Congress on record.
+A majority, 52%, has little or no confidence in Congress. This is the lowest
+level of confidence for any institution on record since Gallup began asking this
+question in 1973. Elizabeth Mendes & Joy Wilke, Gallup, Americans' Confidence in
+Congress Falls to Lowest on Record, Gallup Poll (June 13, 2013). n4
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n4 Available at
+http://www.gallup.com/poll/163052/americans-confidence-congress-falls-lowest-rec
+ord.aspx. The public's rate of confidence in the institutions polled was: the
+military (76%); small business (65%); the police (57%); church or organized
+religion (48%); presidency (36%); medical system (35%); U.S. Supreme Court
+(34%); public schools (32%); criminal justice system (28%); banks (26%);
+television news (23%); newspapers (23%); big business (22%); organized labor
+(20%); health maintenance organizations (19%); Congress (10%). Id.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+    [*15]  Americans do not just have low confidence in government generally;
+this [**25]  lack of confidence is driven by specific concerns about corruption.
+Six out of ten Americans worry very or fairly often about corruption of
+government, and another quarter worry about it occasionally. Liz Kennedy,
+Citizens Actually United: The Overwhelming, Bi-Partisan Opposition to Corporate
+Political Spending and Support for Achievable Reforms, Demos 4 (Oct. 25, 2012)
+[hereinafter L. Kennedy]. n5 Taken together, 86% of Americans are worried about
+corruption of our government. Id. Similarly, 82% of Americans are very often,
+fairly often, or occasionally worried about special interests buying elections.
+Id.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n5 Available at http://www.demos.org/sites/default/files/
+publications/CitizensActuallyUnited_CorporatePoliticalSpending.pdf.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+B. Americans believe their elected representatives are more responsive to
+financial supporters than to constituents or the public interest.
+
+   "Democracy is premised on responsiveness." Citizens United, 558 U.S. at 359
+(quoting McConnell, 540 U.S. at 297 [**26]  (Kennedy, J., concurring in part and
+[*16]  dissenting in part)). However, "[i]f elected officials succumb to
+improper influences . . . ; if they surrender their best judgment; and if they
+put expediency before principle, then surely there is cause for concern. We must
+give weight to attempts by Congress to seek to dispel either the appearance or
+the reality of these influences." Id. at 310.
+
+   There is striking evidence that Americans believe that "politicians [are] too
+compliant with the wishes of large contributors." Nixon v. Shrink Mo. Gov't PAC,
+528 U.S. 389 (2000) (citing Buckley, 424 U.S. at 28). Sixty percent of Americans
+say members of Congress are more likely to vote in a way that pleases their
+financial supporters, while only 20% think representatives will vote in the best
+interests of their constituents. Memorandum from Celinda Lake et al., Lake
+Research Partners & Brian Nienaber & Ashlee Rich, Tarrance Group, National
+Polling on Support for a Proposal to Tackle Big Money in Congressional Elections
+2 (Feb. 1, 2009) [hereinafter Lake/Tarrance Poll]. n6 Two-thirds of Americans do
+not think that voters and [**27]  donors have the same access and influence on
+candidates. See Brennan Ctr. for Justice, National Survey: Super PACs,
+Corruption, and Democracy 2 (Apr. 24, 2012). n7
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n6 Available at
+http://www.acrreform.org/wp-content/uploads/2011/05/Fair-Elections-Polling-2.6.0
+9.pdf.
+
+
+   n7 Available at
+http://www.brennancenter.org/sites/default/files/legacy/Democracy/CFR/SuperPACs_
+Corruption_Democracy.pdf.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+    [*17]  A recent study found that "[v]oters are deeply concerned that all of
+this money purchases influence in Congress and drowns out the voices of ordinary
+voters. When asked who has the most influence on Congressional votes, the views
+of constituents ranked at the bottom of the list, while 59 percent of voters
+said 'special interest groups and lobbyists' and almost half (46 percent) said
+campaign contributors." Greenberg Quinlan Rosner Research, Voters Push Back
+against Big Money Politics, Democracy Corps Nat'l Surveys 1 (Nov. 13, 2012). n8
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n8 Available at
+http://www.democracycorps.com/attachments/article/930/dcor.pcaf.postelect.memo.1
+11312.final.pdf.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**28]
+
+   "Just as troubling to a functioning democracy as classic quid pro quo
+corruption is the danger that officeholders will decide issues not on the merits
+or the desires of their constituencies, but according to the wishes of those who
+have made large financial contributions valued by the officeholder." McConnell,
+540 U.S. at 153. This entails "a subversion of the political process. Elected
+officials are influenced to act contrary to their obligations of office by the
+prospect of financial gain to themselves or infusions of money into their
+campaigns." FEC v. Nat'l Conservative Political Action Comm., 470 U.S. 480, 498
+(1985).
+
+   These dangers are not imaginary, but real. For example, former Senator Wyche
+Fowler described succumbing to influence from business interests who were
+constantly asking for special provisions in the  [*18]  tax code when he was on
+the Ways and Means Committee: "I am sure that on many occasions -- I'm not proud
+of it -- I made the choice that I needed this big corporate client and therefore
+I voted for, or sponsored its provision, even though I did not think that it was
+in the best interests of the country or the economy.  [**29]  " n9
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n9 Martin Schram, Speaking Freely: How Congress is Compromised in the Great
+Money Chase, Center for Responsive Politics 28 (1995). Senator Wyche's
+observation is just one of many similar observations documented in Speaking
+Freely.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+C. Americans believe that government's differential response to wealthy donors
+is caused by the corrupting influence of large contributions.
+
+   Professor Samuel Issacharoff describes the danger that "the electoral system
+leads the political class to offer private gain from public action to distinct,
+tightly organized constituencies, which in turn may be mobilized to keep
+compliant public officials in office." Samuel Issacharoff, On Political
+Corruption, 124 Harv. L. Rev. 118, 126 (2010). Those in positions of economic
+power can use their financial resources to support the election efforts of
+favored politicians to keep their power; elected officials can use their
+political power to further the economic interests of their financial supporters.
+A vicious [**30]  cycle can form where the economic and political power that
+each group  [*19]  helped the other attain can be used to retain those gains.
+
+   Professor Issacharoff identifies the danger as "the potential private capture
+of the powers of the state," and reminds us that
+
+
+     [t]he American recognition of the risk of legislation in the private
+     interest dates at least to The Federalist No. 10, in which Madison
+     identified as a central problem of republican governance the ability
+     to resist 'a number of citizens . . . who are united and actuated by
+     some common impulse of passion, or of interest, adverse to the rights
+     of other citizens, or to the permanent and aggregate interests of the
+     community.'
+
+
+Id. at 129 (quoting James Madison, The Federalist No. 10, in The Federalist
+Papers 72 (Clinton Rossiter ed., 2003)).
+
+   This is in fact what the public sees in our modern democracy. Americans
+believe that large financial contributions are the reason their representatives
+are more responsive to private interests with financial resources than to the
+public interest. Seventy-three percent of voters thought that the influence of
+campaign money given to members [**31]  of Congress was a "major factor in
+causing the current financial crisis on Wall Street." Lake/Tarrance Poll, at 2.
+They thought large campaign contributions from the banking industry led to lax
+oversight of the industry. This was true for three out of four Democrats (76%)
+and Republicans (74%). Id. And, Americans recently reported  [*20]  feeling that
+the federal government "is so corrupted by big banks, big donors, and corporate
+lobbyists that it no longer works for the middle class." Greenberg Quinlan
+Rosner Research, Money in Politics is a Ballot Box Issue, Democracy Corps Nat'l
+Surveys 1 (May 9, 2012) [hereinafter Money in Politics Survey]. n10
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n10 Available at
+http://www.democracycorps.com/attachments/DCorps_PCAF_memo_FINAL.pdf.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   Americans fear that improper influence from private economic interests is
+preventing government from acting to address their real problems. Almost eight
+in ten Americans agree with the statement "I am worried that large political
+contributions will prevent [**32]  Congress from tackling the important issues
+facing America today, like the economic crisis, rising energy costs, reforming
+health care, and global warming." Common Cause, Fair Elections Poll, Money in
+Politics (Feb. 2009). n11
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n11 Available at
+http://www.commoncause.org/atf/[cf/fb3c17e2-cdd1-4df6-92be-bd4429893665]/POLLING
+%20MEMO%20FEB% 202009%20FINAL.PDF.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   And citizens see this improper influence as corruption. "Eighty-five percent
+of Americans call it corruption when financial supporters have more access and
+influence with members of Congress than average Americans," and "fifty-seven
+percent say this is very corrupt." L. Kennedy, supra, at 3.
+
+   Such findings present a serious challenge, because "[c]itizen distrust in the
+democratic process  [*21]  threatens the health of a democracy." Molly J.
+Walker-Wilson, Financing Elections and "Appearance of Corruption": Citizen
+Attitudes and Behavior in 2012 37 (St. Louis Univ. Legal Studies Research Paper
+Series, No. 2013-14, 2013) (examining [**33]  how appearance of corruption
+undermines Americans' sense of political efficacy and deters civic
+participation). n12 Striking the aggregate limits and unleashing direct
+contributions of more than $ 3.5 million by one individual can only deepen the
+public's already strong concerns about the integrity of their government. n13
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n12 Available at http://papers.ssrn.com/sol3/papers.cfm? abstract_id=2231695.
+
+
+   n13 Professors Nathanial Persily and Kelli Lammie question the notion that
+the public perception of corruption is correlated with the "activity taking
+place in the campaign finance system." Nathaniel Persily & Kelli Lammie,
+Perceptions of Corruption and Campaign Finance: When Public Opinion Determines
+Constitutional Law, 153 U. Penn. L. Rev. 119, 123 (2004). They recognize,
+however, that "the inability of the campaign finance system to affect such
+perceptions might be a product of the constraints placed by the jurisprudence
+itself." Id. They also note that "[i]n the end, we must admit that large shares
+of the American population distrust their government and believe the campaign
+finance system is a source of undue influence." Id. at 174. It also follows
+that, while current levels of confidence in government are uncomfortably low,
+they could be worse if the few protections fighting the reality and appearance
+of corruption were not in place or were dismantled.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**34]
+
+ [*22]  III. AMERICANS' CONCERNS ABOUT DONORS' IMPROPER INFLUENCE OVER
+GOVERNMENT ARE JUSTIFIED AND NOT SPECULATIVE.
+
+   As the preceding discussion has shown, Americans are deeply concerned that
+their elected officials do not respond to the needs of their constituents or the
+public interest as a whole, but instead to the interests of the largest donors
+-- implicating the very corruption danger the Court's precedents have
+identified. See, e.g., McConnell, 540 U.S. at 187. Examining three related
+empirical questions sheds light on whether Americans' concerns are grounded in
+reality: (1) do the policy preferences of those able to make large donations
+actually differ in significant ways from those of other Americans; (2) do such
+donors dominate campaign funding such that we should expect candidates to
+privilege their policy preferences; and (3) is government in fact more
+responsive to the wishes of those with more economic clout?
+
+   Answering these empirical questions is important for understanding the
+compelling nature of the interests served by the limits on aggregate
+contributions at issue in this case. After all, if the wealthier Americans who
+are able to [**35]  make large donations held substantially the same views as
+the general public, then their outsized influence on government policy might
+matter less because it would not skew policy outcomes in a particular direction.
+Similarly, if there were no evidence that government policies actually respond
+more strongly to the preferences of those who  [*23]  fund campaigns, then
+again, the public's concern about this might appear less compelling.
+
+   The answers, however, are clear, and show that Americans' concerns about the
+capture of their government by financial supporters are justified and not
+imaginary. Important research confirms that the people who have the financial
+resources to provide major funding to political campaigns have systematically
+different policy preferences than the general public, especially on economic
+issues; that contributions from just a tiny subset of Americans
+disproportionately dominate campaign funding; and that our government responds
+differentially -- often dramatically so -- to the policy preferences of the
+wealthy. It is this reality that creates a substantial and realistic appearance
+of corruption, and is a driving force behind the dismal figures reported in
+[**36]  the previous section regarding public confidence in our electoral system
+and public institutions.
+
+A. The policy preferences of those who can make large donations differ greatly
+from those of ordinary Americans.
+
+   A substantial body of research documents the differing preferences of the
+wealthy from the general public on many important policy issues. n14 One of the
+[*24]  most revealing recent studies is Democracy and the Policy Preferences of
+Wealthy Americans, carried out in 2011 by political science scholars Benjamin I.
+Page, Larry M. Bartels, and Jason Seawright. Their study gives an unprecedented
+window into the opinions of the very wealthy and how they differ from those of
+other Americans. See generally Benjamin I. Page et al., Democracy and the Policy
+Preferences of Wealthy Americans, 11 Persp. On Pol. 51 (2013) [hereinafter
+Policy Preferences]. n15
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n14 Amici discuss the preferences of the wealthy here not because they are
+concerned with the opinions of wealthy Americans per se, but because these
+preferences serve as a reasonable proxy for the views of those who make the
+large political contributions at issue in this case. As shown below, evidence
+confirms the twin common-sense notions that large donors are more likely than
+non-donors or small donors to be wealthy and that wealthy Americans are more
+likely than other citizens to be large donors.
+ [**37]
+
+
+
+   n15 The study is based on interviews of a representative sample of
+respondents in the Chicago metropolitan area corresponding to the top 1% of
+American wealth-holders. Interviewees had a mean wealth of $ 14.0 million, a
+median wealth of $ 7.5 million and an average yearly income of slightly more
+than $ 1 million. Id. at 53.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   The authors of Policy Preferences find that the preferences of the very rich
+differ substantially from those of the general public -- especially on key
+questions about how to structure the economy and respond to America's economic
+needs. One example concerns the central question of how government should
+prioritize job creation as compared to reducing the nation's budget deficit. In
+polls conducted over the past several years, the general public has been
+consistently more concerned with job creation and  [*25]  economic growth than
+with reducing the deficit, often by two-to-one margins or more. David Callahan &
+J. Mijin Cha, Stacked Deck: How the Dominance of Politics by the Affluent and
+Business Undermines Economic Mobility in America, Demos 5-6 & 5 tbl.1 (2013).
+[**38]  n16
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n16 Available at
+http://www.demos.org/sites/default/files/publications/Demos-Stacked-Deck.pdf.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   In contrast, when the high-wealth interviewees in the Policy Preferences
+study were asked to name the most important problem facing the country, "[o]ne
+third (32 percent) of all open-ended responses mentioned budget deficits or
+excessive government spending, far more than mentioned any other issue." Policy
+Preferences, supra, at 55. By comparison, unemployment and education "was
+mentioned as the most important problem by only 11 percent, indicating that they
+ranked a distant second and third to budget deficits among the concerns of
+wealthy Americans." Id.
+
+   This disparity concerning the importance of the deficit is not an aberration.
+The Policy Preferences study finds significant differences across a range of
+issues related to economic well-being and the role that government should play
+in the economy. This is particularly true for policy preferences regarding the
+government's role in encouraging [**39]  job creation and employment. A full
+two-thirds (68%) of the general public believes that "the government in
+Washington  [*26]  ought to see to it that everyone who wants to work can find a
+job." Id. at 57 tbl.5. But among the wealthy respondents in the Policy
+Preferences study, only 19% agreed with that statement -- more than a three to
+one disparity. See id.
+
+   Similarly, 78% of the public supports a minimum wage high enough that no
+family with a full time worker falls below the poverty line, while only 40% of
+the wealthy agree. A majority (53%) of the public believes that "the federal
+government should provide jobs for everyone able and willing to work who cannot
+find a job in private employment," but only 8% of wealthy respondents agree. Id.
+
+   The Policy Preferences authors also find that its respondents were far more
+likely to favor cutting spending on programs such as Social Security, Food
+Stamps, and health care than was the general public, which instead would prefer
+to see expanded government spending on such programs. Id. at 56-57 & 56 tbl.4.
+
+   The Policy Preferences findings are particularly important because the
+authors were able to isolate policy [**40]  views among a highly affluent group
+of Americans corresponding roughly to the top 1% -- extending previous research
+that had compared policy differences among more broadly defined wealth
+categories. See Martin Gilens, Affluence and Influence: Economic Inequality and
+Political Power in America 2-3, 70-96 (2012) (defining "affluent" as Americans
+at 90th  [*27]  income percentile -- the top 10% -- earning at least $ 135,000
+per year in 2010, and still finding significant differences in public opinion
+based upon wealth). Taken together, this is exactly the segment of the
+population that has the capacity to contribute large sums to political
+candidates, parties, and committees.
+
+B. The largest contributors already dominate the funding of U.S. elections.
+
+   Candidates for federal office are heavily dependent on campaign contributions
+from individuals. Adam Lioz & Blair Bowie, Billion Dollar Democracy: The
+Unprecedented Role of Money in the 2012 Elections, Demos 12-13 (2013)
+[hereinafter Billion Dollar Democracy]. n17 Even with current limits on
+contributions in place, those who make the largest contributions provide
+candidates with a huge percentage of their overall [**41]  funds. Data compiled
+by the Sunlight Foundation shows that in the 2012 elections, over a quarter of
+all of the identifiable political contributions to any candidate, party,
+committee, or group came from just 31,385 people. This number represents just
+one ten-thousandth of the U.S. population. Lee Drutman, Sunlight Foundation, The
+Political 1% of the 1% in 2012, Sunlight Foundation Blog (June 24,  [*28]  2013,
+9:00 AM). n18 The impact of this tiny cohort of the American public was so great
+that "not a single member of the House or Senate was elected without financial
+assistance from this group." Id.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n17 Available at
+http://www.demos.org/sites/default/files/publications/BillionDollarDemocracy_Dem
+os.pdf.
+
+
+   n18 Available at sunlightfoundation.com/blog/2013/06/24/1pct_of_the_1pct/.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   The relative influence of this elite group is clear: 84% of members elected
+to the House of Representatives in 2012, and more than half of the members of
+the Senate, received more money from the 1% of the 1% than  [**42]   from all
+their small donors combined. Id. Other data show that candidates for the U.S.
+Senate in 2012 raised 64% of their funds in contributions of at least $ 1,000,
+from just 0.04% of the U.S. population. Billion Dollar Democracy, supra, at 13
+fig.17. Indeed, in the 2012 elections "candidates got more money from a smaller
+percentage of the population than any year for which we have data." Sunlight
+Foundation, supra.
+
+   Survey evidence also confirms -- not surprisingly -- that the affluent are
+far more likely to make financial contributions than are other Americans. The
+Policy Preferences study described above finds that a full two-thirds (68%) of
+the wealthy respondents had made political contributions in the previous 12
+months. Policy Preferences, supra, at 54 & 54 tbl.2. This compares with just
+0.4% of the American population who made a disclosed federal contribution in
+2012. Center for Responsive Politics, Donor  [*29]  Demographics,
+OpenSecrets.Org (last visited July 19, 2013). n19 Moreover, as the authors of
+the study note, "A remarkable 21 percent of our wealthy respondents solicited or
+'bundled' other peoples' political contributions -- not an activity [**43]  that
+is common among ordinary citizens." Policy Preferences, supra, at 54. n20
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n19 Available at
+http://www.opensecrets.org/bigpicture/donordemographics.php?cycle=2012.
+
+
+   n20 In addition, a nationwide survey found that 81% of those who gave
+contributions of at least $ 200 during the 1996 congressional elections reported
+annual family incomes greater than $ 100,000. John Green, et al., Individual
+Congressional Campaign Contributors: Wealthy, Conservative, and Reform-Minded
+(1998).
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   The income gap in who makes campaign donations is accompanied by a racial gap
+as well. A study of the 2004 Presidential election is illustrative. In that
+campaign, the top-contributing zip code (located on Manhattan's Upper East Side)
+was 86.4% white. This one zip code, home to fewer than 100,000 voting age
+residents, generated more campaign dollars than the 377 U.S. zip codes with the
+largest percentage of African Americans, home to 6.9 million voting age
+residents; as well as the 365 zip codes with the largest percentage [**44]  of
+Hispanic residents, with 8.1 million adults. Public Campaign, Color of Money:
+The 2004 Presidential Race 3-4 (2004). n21
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n21 Available at
+http://library.publicampaign.org/sites/default/files/2004_cofm_pres_complete.pdf
+.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+    [*30]  Further, "[t]he nation's biggest campaign donors have little in
+common with average Americans. They hail predominantly from big cities, such as
+New York and Washington. They work for blue-chip corporations, such as Goldman
+Sachs and Microsoft. One in five works in the finance, insurance and real estate
+sector. One in ten works in law or lobbying." Sunlight Foundation, supra. The
+median aggregate contribution from this elite group was $ 26,584; this is more
+than half the median family income in the United States. Id.
+
+   U.S. Senator Chris Murphy has provided insight on how the need to solicit
+donations from those with ample financial resources can affect officeholders. He
+recently described the four to six hours per day he was required to spend
+calling potential donors [**45]  in order to raise campaign funds and noted that
+when making fundraising appeals, he "would not call anyone who could not drop at
+least $ 1,000," people he estimated make at least $ 500,000 to $ 1 million per
+year. Paul Blumenthal, Chris Murphy: 'Soul-Crushing' Fundraising Is Bad for
+Congress, Huffing-ton Post (May 7, 2013, 5:40 PM). n22
+
+
+     I talked a lot more about carried interest inside of that call room
+     than I did in the supermarket . . . [The people I'm calling] have
+     fundamentally different problems than other  [*31]  people. And in
+     Connecticut especially, you spend a lot of time on the phone with
+     people who work in the financial markets. And so you're hearing a lot
+     about problems that bankers have and not a lot of problems that people
+     who work at the mill in Thomaston, Conn., have. You certainly have to
+     stop and check yourself.
+
+
+Id.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n22 Available at
+http://www.huffingtonpost.com/2013/05/07/chris-murphy-fundraising_n_3232143.html
+.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+   The record in McConnell, which addressed the [**46]  soft-money system that
+would be largely recreated by striking the aggregate limits, was replete with
+similar evidence of how public policy can be shaped by the corrupting influence
+of such large contributions. Former Senator Alan Simpson testified that "Too
+often, Members' first thought is not what is right or what they believe, but how
+it will affect fundraising." McConnell v. FEC, 251 F. Supp. 2d 176, 481 (D.D.C.)
+(Kollar-Kotelly, J., concurring in part and dissenting in part), aff'd in part,
+rev'd in part, 540 U.S. 93 (2003). Former Senator Paul Simon recounted how
+Federal Express obtained a favorable amendment to a bill without even a hearing
+after contributing $ 1.4 million to incumbents and almost $ 1 million in soft
+money contributions to political parties. One of his senior colleagues brushed
+back objections by explaining "we've got to pay attention to who is buttering
+our bread." Id. at 482.
+
+    [*32]  C. Public policy outcomes in the U.S. are strongly responsive to the
+preferences of the affluent, even when those preferences diverge markedly from
+those of the general public.
+
+   The differing policy preferences of the wealthy as compared [**47]  to the
+general public would not present a challenge to the democratic vision of a
+representative government if the actual influence of the wealthy on public
+policy accorded with their numbers. The top one percent -- or one tenth of one
+percent -- of Americans may desire very different outcomes than the broad
+public; but by definition they are a tiny segment of the electorate, and could
+not improperly sway policy outcomes by their numbers alone in a democracy guided
+by the principle of one person, one vote.
+
+   Increasing evidence, however, challenges this core assumption of democratic
+governance in the U.S. It is no new observation that in fact the cohort of
+Americans that contribute large sums to federal campaigns exerts a strong
+influence on the political process and public policy outcomes. But, the degree
+of influence that has been documented in recent studies should be sobering to
+anyone concerned with the health of our democracy -- and should give substantial
+pause in considering Appellants' demand to unleash the potential for
+contributions of more than $ 3.5 million by a single individual in federal
+elections. Cf. Citizens United, 558 U.S. at 361 (supporting government's [**48]
+efforts to dispel the appearance or reality of "elected officials succumb[ing]
+to improper  [*33]  influences; . . . surrender[ing] their best judgment; and .
+. . put[ting] expediency before principle.").
+
+   In Affluence and Influence, Professor Gilens set out to measure what he calls
+the "preference/policy link" across the economic spectrum. Gilens, supra, at
+70-97. His research examines the extent to which the policy preferences of
+different income groups are reflected in actual policy outcomes in the United
+States. His findings present a direct challenge to the notion that American
+democracy ensures policy outcomes that represent the views of the broad
+citizenry. Gilens writes:
+
+
+     The American government does respond to the public's preferences, but
+     that responsiveness is strongly tilted toward the most affluent
+     citizens. Indeed, under most circumstances, the preferences of the
+     vast majority of Americans appear to have essentially no impact on
+     which policies the government does or doesn't adopt . . . The complete
+     lack of government responsiveness to the preferences of the poor is
+     disturbing and seems consistent only with the most cynical views of
+     American politics [**49]  . . . median-income Americans fare no better
+     than the poor when their policy preferences diverge from those of the
+     well-off.
+
+
+Id. at 1, 81.
+
+   Professor Gilens continues by describing explicitly the power of the
+preferences of the affluent to  [*34]  override those of the much more numerous
+poor and middle class:
+
+
+     . . . for Americans below the top of the income distribution, any
+     association between preferences and policy outcomes is likely to
+     reflect the extent to which their preferences coincide with those of
+     the affluent . . . We saw above that less-well-off Americans have
+     little influence over policy outcomes when their preferences diverge
+     from those of the affluent. [Additional data described] show that this
+     is true not only for the poor and the middle class considered
+     separately . . . but for those policies on which the poor and middle
+     class are closely aligned in opposition to the affluent.
+
+
+Id. at 83-84. n23
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n23 While the preferences of the affluent are quite dominant across the
+board, the divergence of influence is not equal across policy domains. Professor
+Gilens finds that "the starkest difference in responsiveness to the affluent and
+the middle class occurs on economic policy, a consequence of high-income
+Americans' stronger opposition to taxes and corporate regulation. . . ." Id. at
+101.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**50]
+
+   This is a remarkable finding that challenges the vision of American democracy
+in which government responds to the will of the majority: when the preferences
+of the wealthiest 10% of Americans conflict with those of the rest of the
+population, the 10% trumps the 90%. It underscores why Americans are so deeply
+concerned that campaign funding prevents  [*35]  their elected officials from
+acting in the interests of their constituents, see supra Section II. In the end,
+Professor Gilens' exhaustive study of the "preference/ policy" link in the
+United States leads him to some stark conclusions about the state of American
+democracy. He writes that "[t]he patterns of responsiveness found in previous
+chapters often correspond more closely to a plutocracy than to a democracy." Id.
+at 234.
+
+   Professor Gilens is by no means alone in his conclusions. Political scientist
+Larry Bartels also finds that, in contrast to the affluent, low-income Americans
+have little influence over policy outcomes. As he writes in his 2008 study,
+Unequal Democracy: The Political Economy of the New Gilded Age: "The preferences
+of people in the bottom third of the income distribution have no apparent impact
+[**51]  on the behavior of their elected officials." Larry M. Bartels, Unequal
+Democracy: The Political Economy of the New Gilded Age 285 (2008).
+
+   Professors Gilens' and Bartels' findings are particularly troubling in light
+of the demographic characteristics of the bottom third of the income
+distribution in the U.S. As noted in a recent Demos report, over half of African
+American households and 45% of Latino households are in the lowest third of
+income distribution in the U.S. These researchers' findings thus suggest that
+the majority of African Americans and nearly half of Latinos earn too little for
+their views to have any impact on the behavior of elected officials. See
+Callahan & Cha, supra, at 21.
+
+    [*36]  Professor Gilens notes that the influence of the wealthiest Americans
+on policy outcomes seems to be increasing. "The analyses of change over time" he
+notes "do reveal an important general trend: the strengthening of policy
+responsiveness for affluent Americans." Gilens, supra, at 193. This is important
+because it suggests that government's skew toward the policy preferences of the
+affluent is not an immutable reality, but rather may be responsive to changes in
+opportunities [**52]  for influence, as well as particular policy or economic
+conditions, over time. Id.
+
+   The realities illuminated by the above research fuel the public perception of
+corruption and certainly give rise to significant fears about "real or imagined
+coercive influence of large financial contributions on candidates' positions. .
+. ." Buckley, 424 U.S. at 25. n24
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n24 The concern discussed in this brief regarding the potential harm of
+unleashing huge financial contributions in federal elections is centered wholly
+on the role of such contributions in increasing the potential for corruption and
+the public's loss of faith in the integrity of government. Appellants have
+argued that aggregate limits cannot be supported by a desire to protect one set
+of contributors "from the possibility that others will make larger
+contributions[,]" Citizens Against Rent Control v. Berkeley, 454 U.S. 290, 295
+(1981) (addressing ballot measure campaigns), which they see as an impermissible
+demand for equalizing the voices of all donors. The argument in this brief is
+based on an entirely different rationale -- it is based directly on the concern
+about the reality and appearance of corruption stemming from large contributions
+in candidate elections that would be unleashed by striking the aggregate limits,
+and how such large contributions would contribute to the erosion of citizens'
+faith in government.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**53]
+
+ [*37]  IV. STRIKING THE AGGREGATE LIMITS WILL INCREASE THE DANGER OF CORRUPTION
+AND AGGRAVATE THE APPEARANCE OF CORRUPTION.
+
+   The preceding discussion demonstrates the public's eroding confidence in the
+ability of government to respond to important public needs and to resist the
+improper influence of campaign money on policymaking. This phenomenon is driving
+a significant percentage of the public away from political engagement. Even in
+2008, an election with record turnout, 80 million eligible persons failed to
+participate. Susan Page, Why 90 Million Americans Won't Vote in November, USA
+Today, Aug. 15, 2012, at A1 (reporting on Suffolk University/USA Today poll).
+n25 In a poll of eligible persons who stated that they were unlikely to vote,
+when asked why they did not pay attention to politics, 54% said, "[i]t is so
+corrupt." Id. As citizens lose faith in government, levers of democratic
+accountability are dismantled, and we lose the wisdom of the larger electorate
+in determining the direction of our nation.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n25 Available at
+http://usatoday30.usatoday.com/news/politics/story/2012-08-15/non-voters-obama-r
+omney/57055184/1.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**54]
+
+   Striking aggregate contribution limits -- which would allow a single donor to
+funnel more than $ 3.5 million directly into federal election campaigns and
+allow candidates or officeholders to solicit huge sums -- would alter our
+political system in exactly the way that is most likely to further erode
+confidence in  [*38]  government and foster the appearance of corruption,
+perhaps "to a disastrous extent." Buckley, 424 U.S. at 27 (quoting U.S. Civil
+Service Comm'n v. Nat'l Ass'n of Letter Carriers, AFL-CIO, 413 U.S. 548, 565
+(1973)). The evidence suggests that removing these generous caps will lead to an
+even greater gulf between the policy choices of government and the preferences
+of ordinary citizens -- fueling cynicism, depressing political engagement, and
+leading even more citizens to conclude (apparently accurately) that government
+is more responsive to a narrow set of donors than to the broad populace.
+
+   Americans' current perception of corruption in government and lack of faith
+in public institutions such as Congress already presents a challenge to the
+legitimacy of our democracy. When most Americans already believe that government
+is run [**55]  by a few big interests instead of for the benefit of all people,
+our democracy cannot abide further erosion of the campaign finance limits that
+are the government's most effective tool in deterring corruption and its
+appearance. NES 2012 Dataset, supra, at 454. Sixty percent of Americans already
+believe that "public officials do not care what the people think." Am. Nat'l
+Election Studies, The ANES Guide to Public Opinion and Electoral Behavior,
+tbl.5B.3 (last visited July 12, 2013). n26 How will our Republic fare if that
+figure continues to rise?
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+   n26 Available at
+http://www.electionstudies.org/nesguide/toptable/tab5b_3.htm.
+
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+    [*39]  Finally, in striking aggregate limits, this Court would contribute to
+public disenchantment with government by stripping the state of a popular and
+effective tool. Despite their concerns about the impact of campaign money on the
+integrity of their government, Americans have not given up on the belief that
+limiting the size of contributions is an important answer. Nearly [**56]
+three-quarters (73%) of all voters believe there should be common-sense limits
+on the amount of money people can contribute to political campaigns. Money in
+Politics Survey, supra, at 1. Of that group, a large majority (59%) is
+"intensely committed" to such limits. Id. A large majority (60%) says
+"candidates ought to tackle money in politics in order to make government work
+for the middle class." Id.
+
+   Faith in government and its legitimacy is a first principle. In its seminal
+campaign finance case, this Court recognized that where the public believes that
+government is corrupt, we can expect to see an erosion of "confidence in the
+system of representative government." See Buckley, 424 U.S. at 26-27. We are
+seeing just that right now. Although the full cure for this problem lies outside
+the confines of this particular case, this case does present the Court with a
+compelling need to do no harm, to not make matters worse.
+
+   The U.S. Government has a compelling interest and an obligation to protect
+its legitimacy. This Court should defer to the judgment of Congress that the
+aggregate limits are a necessary means to that end, and are critical to prevent
+further [**57]  erosion of citizens'  [*40]  confidence in government. The
+limits on aggregate contributions reflect Congress' well-grounded judgment that
+limits are necessary to deter the reality and appearance of corruption that are
+so corrosive to citizens' faith in government. The Court has "understood that
+such deference to legislative choice is warranted particularly when Congress
+regulates campaign contributions, carrying as they do a plain threat to
+political integrity and a plain warrant to counter the appearance and reality of
+corruption. . . ." Beaumont, 539 U.S. at 155 (citing Buckley, 424 U.S. at
+26-28). This Court should respect Congress' judgment, prior precedent, and
+current political reality by upholding aggregate contribution limits.
+
+[*41]  CONCLUSION
+
+   For the foregoing reasons, the judgment of the court below should be
+affirmed.
+
+   Respectfully submitted,
+
+   BRENDA WRIGHT, Counsel of Record, DEMOS, 358 Chestnut Hill Ave., Suite 303,
+Brighton, MA 02135, (617) 232-5885, bwright@demos.org
+
+   ELIZABETH KENNEDY, ADAM LIOZ, DEMOS, 220 Fifth Ave., 2nd Floor, New York, NY
+10001, (212) 633-1405a
+
+Counsel for Amici Curiae
+
+
+   [SEE APPENDIX [**58]  IN ORIGINAL]
